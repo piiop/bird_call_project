@@ -1,0 +1,691 @@
+genus,species,latitude,longitude,type,quality,file_name,simplified_type,season,time_of_day,length_seconds
+Branta,canadensis,39.2095,-84.7821,flight call,A,Branta_canadensis_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726750.mp3,Call,Spring,Morning,14
+Branta,canadensis,40.5652,-83.6255,flight call,A,Branta_canadensis_Lawrence_Woods_SNP_418000.mp3,Call,Spring,Afternoon,31
+Branta,canadensis,39.283,-84.7459,flight call,B,Branta_canadensis_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_691528.mp3,Call,Winter,Morning,19
+Cygnus,buccinator,40.7095,-83.3032,call,B,Cygnus_buccinator_Killdeer_Plains_Wildlife_Management_Area_Wyandot_County_Ohio_713788.mp3,Call,Winter,Morning,132
+Aix,sponsa,41.6275,-83.1897,call,C,Aix_sponsa_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_815809.mp3,Call,Spring,Morning,4
+Anas,acuta,39.176,-84.528,call,B,Anas_acuta_Cincinnati_Hamilton_County_Ohio_855312.mp3,Call,Winter,Afternoon,17
+Colinus,virginianus,39.1833,-83.7177,"song, crickets",A,Colinus_virginianus_New_Market_Township_near__Hoagland_Highland_County_Ohio_805814.mp3,Song,Spring,Evening,59
+Colinus,virginianus,41.93338,-83.54994,song,B,Colinus_virginianus_Michigan_Monroe_County_17130.mp3,Song,Summer,Unknown,20
+Colinus,virginianus,41.93338,-83.54994,song,C,Colinus_virginianus_Michigan_Monroe_County_17061.mp3,Song,Summer,Unknown,3
+Colinus,virginianus,41.93338,-83.54994,song,C,Colinus_virginianus_Michigan_Monroe_County_17060.mp3,Song,Summer,Unknown,2
+Phasianus,colchicus,41.93338,-83.54994,call,B,Phasianus_colchicus_Michigan_Monroe_County_16976.mp3,Call,Spring,Unknown,3
+Chordeiles,minor,39.1196,-84.5989,call,B,Chordeiles_minor_Green_Township_near__Cincinnati_Hamilton_County_Ohio_647199.mp3,Call,Spring,Night,66
+Antrostomus,carolinensis,38.7556,-83.3916,song,A,Antrostomus_carolinensis_Brush_Creek_Township_near__West_Union_Adams_County_Ohio_939173.mp3,Song,Spring,Night,47
+Antrostomus,carolinensis,38.7642,-83.3874,song,A,Antrostomus_carolinensis_Hamilton_Rd_Adams_Cty_Ohio_939171.mp3,Song,Spring,Night,50
+Antrostomus,carolinensis,38.7484,-83.4636,song,A,Antrostomus_carolinensis_Brush_Creek_Township_near__West_Union_Adams_County_Ohio_804643.mp3,Song,Spring,Evening,47
+Antrostomus,carolinensis,38.7638,-83.463,song,B,Antrostomus_carolinensis_Brush_Creek_near__West_Union_Adams_County_Ohio_178533.mp3,Song,Spring,Night,20
+Antrostomus,vociferus,38.6348,-80.5746,song,A,Antrostomus_vociferus_Sutton_Braxton_County_West_Virginia_929758.mp3,Song,Spring,Evening,73
+Chaetura,pelagica,39.1196,-84.5989,flight call,B,Chaetura_pelagica_Green_Township_near__Cincinnati_Hamilton_County_Ohio_676768.mp3,Call,Fall,Morning,6
+Chaetura,pelagica,41.93338,-83.54994,flight call,C,Chaetura_pelagica_Michigan_Monroe_County_17058.mp3,Call,Summer,Unknown,7
+Coccyzus,americanus,41.629,-83.194,song,C,Coccyzus_americanus_Magee_Marsh_boardwalk_west_end_262809.mp3,Song,Summer,Afternoon,69
+Coccyzus,erythropthalmus,41.9628,-82.5184,call,B,Coccyzus_erythropthalmus_Point_Pelee_National_Park_Essex_County_Ontario_910739.mp3,Call,Summer,Afternoon,7
+Coccyzus,erythropthalmus,40.9133,-81.4785,song,D,Coccyzus_erythropthalmus_Thursby_Rd_near_Singer_Lake_Green_Summit_County_Ohio_376138.mp3,Song,Summer,Morning,9
+Zenaida,macroura,41.9296,-82.5092,wings,A,Zenaida_macroura_Pelee_near__Leamington_Essex_County_Ontario_476933.mp3,Other,Spring,Afternoon,9
+Rallus,elegans,39.919,-83.2065,alarm call,A,Rallus_elegans_Battelle_Darby_Metro_Park_-_Wetlands_417850.mp3,Call,Spring,Morning,2
+Rallus,elegans,40.125,-83.183,call,B,Rallus_elegans_Glacier_Ridge_Metro_Park--Honda_Wetlands_103499.mp3,Call,Summer,Afternoon,10
+Porzana,carolina,39.2976,-84.6927,song,A,Porzana_carolina_Ross_Township_near__Ross_Butler_County_Ohio_807518.mp3,Song,Spring,Morning,7
+Porzana,carolina,39.919,-83.2065,call,A,Porzana_carolina_Battelle_Darby_Metro_Park_-_Wetlands_417847.mp3,Call,Spring,Morning,6
+Porzana,carolina,39.919,-83.2065,song,B,Porzana_carolina_Battelle_Darby_Metro_Park_-_Wetlands_417849.mp3,Song,Spring,Morning,6
+Antigone,canadensis,40.3695,-83.0483,alarm call,B,Antigone_canadensis_Troy_Township_near__Delaware_Delaware_County_Ohio_625913.mp3,Call,Spring,Morning,32
+Charadrius,vociferus,41.6275,-83.1897,call,B,Charadrius_vociferus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_817568.mp3,Call,Spring,Morning,42
+Charadrius,vociferus,39.3439,-84.6688,flight call,B,Charadrius_vociferus_Ross_Township_near__Hamilton_Butler_County_Ohio_533371.mp3,Call,Spring,Morning,15
+Calidris,alpina,41.61422,-83.17215,"call, flock",D,Calidris_alpina_Ohio_Magee_Marsh_17027.mp3,Call,Spring,Unknown,9
+Scolopax,minor,38.7556,-83.3916,flight call,A,Scolopax_minor_Brush_Creek_Township_near__West_Union_Adams_County_Ohio_939172.mp3,Call,Spring,Night,8
+Scolopax,minor,41.9487,-82.5194,song,A,Scolopax_minor_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_837811.mp3,Song,Spring,Night,108
+Scolopax,minor,41.9457,-82.5143,"song, display flight",A,Scolopax_minor_Pelee_near__Leamington_Essex_County_Ontario_476517.mp3,Song,Spring,Night,61
+Scolopax,minor,41.6847,-83.395,"flight call, song",A,Scolopax_minor_Maumee_Bay_SP_Ohio_418105.mp3,Song,Spring,Night,60
+Scolopax,minor,41.6847,-83.395,song,A,Scolopax_minor_Maumee_Bay_SP_Ohio_418103.mp3,Song,Spring,Night,140
+Scolopax,minor,41.6847,-83.395,song,A,Scolopax_minor_Maumee_Bay_SP_Ohio_418101.mp3,Song,Spring,Night,4
+Scolopax,minor,41.6847,-83.395,"flight call, song",A,Scolopax_minor_Maumee_Bay_SP_Ohio_418099.mp3,Song,Spring,Night,175
+Scolopax,minor,40.0845,-83.0526,"call, song",B,Scolopax_minor_Columbus_Franklin_County_Ohio_171997.mp3,Song,Spring,Evening,112
+Scolopax,minor,40.0845,-83.0526,"call, song",B,Scolopax_minor_Columbus_Franklin_County_Ohio_171994.mp3,Song,Spring,Evening,52
+Scolopax,minor,40.0845,-83.0526,"call, song",B,Scolopax_minor_Columbus_Franklin_County_Ohio_171991.mp3,Song,Spring,Evening,161
+Scolopax,minor,41.949,-82.5193,flight call,C,Scolopax_minor_Pelee_near__Leamington_Essex_County_Ontario_473284.mp3,Call,Spring,Morning,2
+Scolopax,minor,39.986,-83.02,wing sound,C,Scolopax_minor_Columbus_Ohio_flight_call_recording_station_55153.mp3,Other,Spring,Night,10
+Tringa,solitaria,41.62116,-83.16103,call,C,Tringa_solitaria_Ohio_Crane_Creek_SP_17025.mp3,Call,Spring,Unknown,3
+Tringa,flavipes,41.61422,-83.17215,"call, song",B,Tringa_flavipes_Ohio_Magee_Marsh_17051.mp3,Song,Spring,Unknown,5
+Tringa,flavipes,41.61422,-83.17215,call,B,Tringa_flavipes_Ohio_Magee_Marsh_17050.mp3,Call,Spring,Unknown,8
+Tringa,flavipes,41.61422,-83.17215,call,B,Tringa_flavipes_Ohio_Magee_Marsh_17049.mp3,Call,Spring,Unknown,10
+Tringa,flavipes,41.61422,-83.17215,call,B,Tringa_flavipes_Ohio_Magee_Marsh_17048.mp3,Call,Spring,Unknown,3
+Tringa,flavipes,41.61422,-83.17215,call,B,Tringa_flavipes_Ohio_Magee_Marsh_17047.mp3,Call,Spring,Unknown,17
+Chroicocephalus,philadelphia,41.9088,-82.509,call,B,Chroicocephalus_philadelphia_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_839507.mp3,Call,Spring,Morning,59
+Larus,delawarensis,41.9162,-83.3387,call,C,Larus_delawarensis_Michigan_Sterling_SP_11860.mp3,Call,Spring,Unknown,37
+Chlidonias,niger,41.9628,-82.5184,call,B,Chlidonias_niger_Pelee_near__Leamington_Essex_County_Ontario_476265.mp3,Call,Spring,Afternoon,11
+Botaurus,lentiginosus,39.919,-83.2065,song,A,Botaurus_lentiginosus_Battelle_Darby_Metro_Park_-_Wetlands_417864.mp3,Song,Spring,Morning,9
+Botaurus,lentiginosus,39.919,-83.2065,song,B,Botaurus_lentiginosus_Battelle_Darby_Metro_Park_-_Wetlands_417863.mp3,Song,Spring,Morning,4
+Botaurus,lentiginosus,39.919,-83.2065,song,C,Botaurus_lentiginosus_Battelle_Darby_Metro_Park_-_Wetlands_417855.mp3,Song,Spring,Morning,7
+Ardea,alba,41.6156,-83.21604,call,B,Ardea_alba_Ohio_Ottawa_NWR_17012.mp3,Call,Spring,Unknown,6
+Accipiter,cooperii,41.93338,-83.54994,"call, calls",B,Accipiter_cooperii_Michigan_Monroe_County_17115.mp3,Call,Summer,Unknown,25
+Buteo,lineatus,39.1767,-84.6557,call,A,Buteo_lineatus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_809281.mp3,Call,Summer,Morning,54
+Buteo,lineatus,39.283,-84.7459,call,A,Buteo_lineatus_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_691446.mp3,Call,Winter,Morning,23
+Buteo,lineatus,39.1722,-84.643,call,A,Buteo_lineatus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_673003.mp3,Call,Fall,Morning,9
+Buteo,lineatus,39.192,-84.555,call,A,Buteo_lineatus_Tanglewood_Lane_Cincinnati_Ohio_44321.mp3,Call,Winter,Morning,13
+Buteo,lineatus,39.5734,-84.0131,call,C,Buteo_lineatus_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477606.mp3,Call,Spring,Afternoon,7
+Buteo,lineatus,41.93338,-83.54994,call,D,Buteo_lineatus_Michigan_Monroe_County_17118.mp3,Call,Summer,Unknown,34
+Buteo,jamaicensis,41.93338,-83.54994,"call, calls",B,Buteo_jamaicensis_Michigan_Monroe_County_17117.mp3,Call,Summer,Unknown,26
+Buteo,jamaicensis,41.93338,-83.54994,call,B,Buteo_jamaicensis_Michigan_Monroe_County_17116.mp3,Call,Summer,Unknown,35
+Tyto,furcata,41.1339,-81.4846,"flight call, nocturnal flight call",A,Tyto_furcata_Cuyahoga_Falls_Summit_County_Ohio_580333.mp3,Call,Summer,Night,3
+Bubo,virginianus,39.0276,-83.9197,"call, song",A,Bubo_virginianus_Green_Township_near__Mount_Orab_Brown_County_Ohio_760069.mp3,Song,Fall,Night,65
+Bubo,virginianus,39.0078,-83.8085,"call, duet, song",A,Bubo_virginianus_mount_orab_ohio_760068.mp3,Song,Fall,Night,181
+Bubo,virginianus,41.932,-82.5133,song,A,Bubo_virginianus_Pelee_Shuttle_Stop_near__Leamington_Essex_County_Ontario_476571.mp3,Song,Spring,Night,45
+Bubo,virginianus,39.0764,-84.336,call,A,Bubo_virginianus_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_450919.mp3,Call,Winter,Evening,15
+Bubo,virginianus,39.0078,-83.8085,"call, duet",B,Bubo_virginianus_mount_orab_ohio_664390.mp3,Call,Summer,Night,73
+Bubo,virginianus,39.938,-83.222,call,B,Bubo_virginianus_Battelle_Darby_Creek_Metro_Park--South_of_Darby_Dan_Loop_107584.mp3,Call,Summer,Morning,52
+Bubo,virginianus,39.1447,-84.3837,call,C,Bubo_virginianus_Wooster_PK_&_Beech_St_near__Mariemont_Hamilton_County_Ohio_757171.mp3,Call,Fall,Night,114
+Megascops,asio,39.0078,-83.8085,call,A,Megascops_asio_mount_orab_ohio_624995.mp3,Call,Winter,Evening,118
+Megascops,asio,39.0078,-83.8085,"call, song",B,Megascops_asio_mount_orab_ohio_669305.mp3,Song,Summer,Night,67
+Megascops,asio,39.0078,-83.8085,call,B,Megascops_asio_mount_orab_ohio_624576.mp3,Call,Winter,Evening,28
+Megascops,asio,39.0078,-83.8085,"song, trill / tremolo",B,Megascops_asio_mount_orab_ohio_544849.mp3,Song,Spring,Night,59
+Strix,varia,39.0078,-83.8085,call,B,Strix_varia_mount_orab_ohio_494579.mp3,Call,Summer,Night,12
+Strix,varia,39.0078,-83.8085,call,B,Strix_varia_mount_orab_ohio_494421.mp3,Call,Summer,Night,11
+Strix,varia,39.2168,-84.0779,call,B,Strix_varia_Wayne_Township_near__Pleasant_Plain_Clermont_County_Ohio_446964.mp3,Call,Winter,Evening,41
+Melanerpes,erythrocephalus,39.2505,-84.7484,drumming,A,Melanerpes_erythrocephalus_Crosby_Township_near__Harrison_Hamilton_County_Ohio_774908.mp3,Other,Winter,Afternoon,60
+Melanerpes,erythrocephalus,40.7506,-84.3211,call,A,Melanerpes_erythrocephalus_Kendrick_Woods_State_Nature_Preserve_Allen_County_Ohio_698853.mp3,Call,Winter,Morning,75
+Melanerpes,erythrocephalus,40.567,-83.6182,"call, keer",A,Melanerpes_erythrocephalus_Lawrence_Woods_SNP_477578.mp3,Call,Spring,Afternoon,11
+Melanerpes,erythrocephalus,41.9669,-82.5324,call,A,Melanerpes_erythrocephalus_Pelee_near__Leamington_Essex_County_Ontario_477003.mp3,Call,Spring,Afternoon,32
+Melanerpes,erythrocephalus,39.2505,-84.7484,call,B,Melanerpes_erythrocephalus_Crosby_Township_near__Harrison_Hamilton_County_Ohio_774907.mp3,Call,Winter,Afternoon,7
+Melanerpes,carolinus,39.283,-84.7459,call,A,Melanerpes_carolinus_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_687174.mp3,Call,Fall,Afternoon,20
+Melanerpes,carolinus,39.192,-84.555,"call, yuck-a yuck-a conflict calls",A,Melanerpes_carolinus_Tanglewood_Lane_Cincinnati_Ohio_302917.mp3,Call,Spring,Morning,11
+Melanerpes,carolinus,39.8031,-84.2047,call,B,Melanerpes_carolinus_Wegerzyn_garden_near__Dayton_Montgomery_County_Ohio_807218.mp3,Call,Spring,Morning,96
+Melanerpes,carolinus,39.2453,-84.7581,call,B,Melanerpes_carolinus_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728264.mp3,Call,Spring,Afternoon,17
+Melanerpes,carolinus,39.1722,-84.643,call,B,Melanerpes_carolinus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_726629.mp3,Call,Spring,Afternoon,62
+Melanerpes,carolinus,39.2542,-84.7499,call,B,Melanerpes_carolinus_Harrison_Township_near__Harrison_Hamilton_County_Ohio_691526.mp3,Call,Winter,Morning,58
+Melanerpes,carolinus,39.1722,-84.643,call,B,Melanerpes_carolinus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_672994.mp3,Call,Fall,Morning,32
+Melanerpes,carolinus,39.0767,-84.4156,call,B,Melanerpes_carolinus_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_542523.mp3,Call,Spring,Morning,14
+Melanerpes,carolinus,41.4553,-81.9179,"alarm call, flight call",B,Melanerpes_carolinus_Westlake_Cuyahoga_Ohio_115025.mp3,Call,Winter,Afternoon,30
+Melanerpes,carolinus,40.5652,-83.6255,call,C,Melanerpes_carolinus_Lawrence_Woods_SNP_417981.mp3,Call,Spring,Afternoon,5
+Sphyrapicus,varius,39.192,-84.555,"call, ""wicka"" intraspecific interaction calls, usual calls",A,Sphyrapicus_varius_Tanglewood_Lane_Cincinnati_Ohio_302918.mp3,Call,Spring,Morning,27
+Sphyrapicus,varius,39.1752,-84.5272,call,C,Sphyrapicus_varius_Cincinnati_Hamilton_County_Ohio_871471.mp3,Call,Winter,Afternoon,15
+Dryobates,pubescens,41.9501,-82.5237,drumming,A,Dryobates_pubescens_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803584.mp3,Other,Spring,Afternoon,49
+Dryobates,pubescens,39.1196,-84.5989,call,A,Dryobates_pubescens_Green_Township_near__Cincinnati_Hamilton_County_Ohio_676924.mp3,Call,Fall,Morning,17
+Dryobates,pubescens,41.9563,-82.5268,call,A,Dryobates_pubescens_Pelee_near__Leamington_Essex_County_Ontario_476564.mp3,Call,Spring,Afternoon,6
+Dryobates,pubescens,39.8031,-84.2047,call,B,Dryobates_pubescens_Wegerzyn_garden_near__Dayton_Montgomery_County_Ohio_807220.mp3,Call,Spring,Morning,19
+Leuconotopicus,villosus,38.6931,-83.4398,"begging call, call, begging, rattle, usual call",A,Leuconotopicus_villosus_Green_Township_near__Lynx_Adams_County_Ohio_302925.mp3,Call,Spring,Morning,20
+Leuconotopicus,villosus,39.1915,-84.7179,call,B,Leuconotopicus_villosus_Miami_Township_near__Cleves_Hamilton_County_Ohio_775844.mp3,Call,Winter,Morning,33
+Colaptes,auratus,39.1767,-84.6557,song,A,Colaptes_auratus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_807485.mp3,Song,Spring,Morning,55
+Colaptes,auratus,39.1317,-84.7973,song,A,Colaptes_auratus_Miami_Township_near__North_Bend_Hamilton_County_Ohio_713588.mp3,Song,Spring,Morning,102
+Colaptes,auratus,39.0767,-84.4156,call,B,Colaptes_auratus_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_542520.mp3,Call,Spring,Morning,55
+Dryocopus,pileatus,39.2542,-84.7499,drumming,A,Dryocopus_pileatus_Harrison_Township_near__Harrison_Hamilton_County_Ohio_691470.mp3,Other,Winter,Morning,190
+Dryocopus,pileatus,39.2453,-84.7581,call,C,Dryocopus_pileatus_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728222.mp3,Call,Spring,Afternoon,13
+Sayornis,phoebe,39.2542,-84.7499,song,A,Sayornis_phoebe_Harrison_Township_near__Harrison_Hamilton_County_Ohio_713591.mp3,Song,Spring,Morning,50
+Sayornis,phoebe,39.2542,-84.7499,call,A,Sayornis_phoebe_Harrison_Township_near__Harrison_Hamilton_County_Ohio_713589.mp3,Call,Spring,Morning,20
+Sayornis,phoebe,41.9563,-82.5268,song,A,Sayornis_phoebe_Pelee_near__Leamington_Essex_County_Ontario_476566.mp3,Song,Spring,Afternoon,30
+Contopus,virens,41.9563,-82.5268,call,A,Contopus_virens_Pelee_near__Leamington_Essex_County_Ontario_476568.mp3,Call,Spring,Afternoon,22
+Contopus,virens,39.2432,-84.7609,song,B,Contopus_virens_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_928713.mp3,Song,Summer,Morning,30
+Contopus,virens,39.2432,-84.7609,song,B,Contopus_virens_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_817712.mp3,Song,Summer,Morning,81
+Contopus,virens,39.2453,-84.7581,song,B,Contopus_virens_Harrison_Township_near__Harrison_Hamilton_County_Ohio_726814.mp3,Song,Spring,Afternoon,33
+Contopus,virens,39.5734,-84.0131,song,B,Contopus_virens_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477597.mp3,Song,Spring,Afternoon,4
+Contopus,virens,41.629,-83.194,song,B,Contopus_virens_Magee_Marsh_boardwalk_west_end_103501.mp3,Song,Spring,Night,114
+Contopus,virens,40.012,-83.016,song,B,Contopus_virens_Tuttle_Park_Columbus_Ohio_89366.mp3,Song,Spring,Morning,3
+Contopus,virens,39.2432,-84.7609,song,C,Contopus_virens_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_928711.mp3,Song,Summer,Morning,64
+Empidonax,virescens,39.1915,-84.7179,song,A,Empidonax_virescens_Miami_Township_near__Cleves_Hamilton_County_Ohio_807573.mp3,Song,Spring,Morning,66
+Empidonax,virescens,39.2453,-84.7581,song,A,Empidonax_virescens_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728279.mp3,Song,Spring,Afternoon,54
+Empidonax,virescens,39.2453,-84.7581,call,A,Empidonax_virescens_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728275.mp3,Call,Spring,Afternoon,14
+Empidonax,virescens,39.7945,-83.8317,song,B,Empidonax_virescens_Clifton_Gorge_NP_near__Clifton_Greene_County_Ohio_775046.mp3,Song,Summer,Morning,52
+Empidonax,virescens,39.2453,-84.7581,call,B,Empidonax_virescens_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728272.mp3,Call,Spring,Afternoon,17
+Empidonax,virescens,39.1317,-84.7973,call,B,Empidonax_virescens_Miami_Township_near__North_Bend_Hamilton_County_Ohio_670407.mp3,Call,Summer,Afternoon,64
+Empidonax,traillii,39.2058,-84.7876,"call, song",A,Empidonax_traillii_Whitewater_Township_near__White_Water_Park_Hamilton_County_Ohio_807543.mp3,Song,Spring,Morning,37
+Empidonax,traillii,41.6122,-83.1723,song,A,Empidonax_traillii_Magee_Marsh_Ohio_298581.mp3,Song,Spring,Morning,10
+Empidonax,traillii,41.6122,-83.1723,song,A,Empidonax_traillii_Magee_Marsh_Ohio_298355.mp3,Song,Spring,Morning,34
+Empidonax,traillii,41.9501,-82.5237,call,B,Empidonax_traillii_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_806079.mp3,Call,Spring,Afternoon,4
+Empidonax,traillii,39.2095,-84.7821,song,B,Empidonax_traillii_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726752.mp3,Song,Spring,Morning,41
+Empidonax,traillii,40.7183,-81.991,"call, song",B,Empidonax_traillii_Franklin_Township_near__Wooster_Wayne_County_Ohio_418568.mp3,Song,Summer,Morning,36
+Empidonax,traillii,41.6122,-83.1723,song,B,Empidonax_traillii_Magee_Marsh_Ohio_298575.mp3,Song,Spring,Afternoon,96
+Empidonax,traillii,39.5734,-84.0131,"call, song, fitz bew, reep",C,Empidonax_traillii_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477603.mp3,Song,Spring,Afternoon,26
+Empidonax,traillii,41.5421,-81.6307,call,C,Empidonax_traillii_Cleveland_Cuyahoga_County_Ohio_256648.mp3,Call,Summer,Morning,24
+Empidonax,traillii,41.93338,-83.54994,song,D,Empidonax_traillii_Michigan_Monroe_County_16968.mp3,Song,Spring,Unknown,7
+Tyrannus,tyrannus,41.9501,-82.5237,call,A,Tyrannus_tyrannus_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_805523.mp3,Call,Spring,Afternoon,39
+Tyrannus,tyrannus,39.1237,-84.5904,call,B,Tyrannus_tyrannus_Dunham_Recreation_Complex_near__Cincinnati_Hamilton_County_Ohio_646450.mp3,Call,Spring,Afternoon,10
+Myiarchus,crinitus,39.1317,-84.7973,call,B,Myiarchus_crinitus_Miami_Township_near__North_Bend_Hamilton_County_Ohio_646113.mp3,Call,Spring,Morning,101
+Myiarchus,crinitus,39.5734,-84.0131,"call, reep",B,Myiarchus_crinitus_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477599.mp3,Call,Spring,Afternoon,97
+Myiarchus,crinitus,40.2377,-82.8937,"call, song",D,Myiarchus_crinitus_Berkshire_near__Galena_Delaware_Ohio_124160.mp3,Song,Spring,Morning,30
+Myiarchus,crinitus,40.2377,-82.8937,song,D,Myiarchus_crinitus_Berkshire_near__Galena_Delaware_Ohio_124159.mp3,Song,Spring,Morning,33
+Vireo,olivaceus,40.5652,-83.6255,song,A,Vireo_olivaceus_Lawrence_Woods_SNP_417986.mp3,Song,Spring,Afternoon,7
+Vireo,olivaceus,41.6275,-83.1897,song,C,Vireo_olivaceus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827607.mp3,Song,Spring,Morning,72
+Vireo,gilvus,41.6275,-83.1897,"call, song",A,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827591.mp3,Song,Spring,Afternoon,50
+Vireo,gilvus,41.6275,-83.1897,"call, song",A,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827590.mp3,Song,Spring,Morning,118
+Vireo,gilvus,39.2976,-84.6927,"call, song",A,Vireo_gilvus_Ross_Township_near__Ross_Butler_County_Ohio_807514.mp3,Song,Spring,Morning,58
+Vireo,gilvus,41.9501,-82.5237,"duet, song",A,Vireo_gilvus_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_806076.mp3,Song,Spring,Afternoon,49
+Vireo,gilvus,39.2095,-84.7821,"call, song",A,Vireo_gilvus_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726753.mp3,Song,Spring,Morning,40
+Vireo,gilvus,39.5734,-84.0131,song,A,Vireo_gilvus_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477609.mp3,Song,Spring,Afternoon,5
+Vireo,gilvus,41.9292,-82.5103,song,A,Vireo_gilvus_Pelee_near__Leamington_Essex_County_Ontario_477046.mp3,Song,Spring,Afternoon,15
+Vireo,gilvus,41.6122,-83.1723,"song, subsong",B,Vireo_gilvus_Magee_Marsh_Ohio_939387.mp3,Song,Spring,Morning,25
+Vireo,gilvus,41.6122,-83.1723,"song, subsong",B,Vireo_gilvus_Magee_Marsh_Ohio_939386.mp3,Song,Spring,Morning,38
+Vireo,gilvus,41.6122,-83.1723,song,B,Vireo_gilvus_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902984.mp3,Song,Spring,Morning,13
+Vireo,gilvus,41.6122,-83.1723,song,B,Vireo_gilvus_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902983.mp3,Song,Spring,Morning,18
+Vireo,gilvus,41.6275,-83.1897,song,B,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827594.mp3,Song,Spring,Morning,32
+Vireo,gilvus,41.6275,-83.1897,call,B,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827593.mp3,Call,Spring,Afternoon,40
+Vireo,gilvus,41.6275,-83.1897,song,B,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827592.mp3,Song,Spring,Morning,24
+Vireo,gilvus,41.6275,-83.1897,song,B,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827589.mp3,Song,Spring,Morning,21
+Vireo,gilvus,39.2535,-84.763,"call, song",B,Vireo_gilvus_Tanager_Meadow_Reservable_Shelter_near__Harrison_Hamilton_County_Ohio_807452.mp3,Song,Spring,Morning,22
+Vireo,gilvus,41.6275,-83.1897,song,C,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827588.mp3,Song,Spring,Morning,62
+Vireo,gilvus,41.6275,-83.1897,"call, song",C,Vireo_gilvus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827586.mp3,Song,Spring,Morning,145
+Vireo,gilvus,41.6122,-83.1723,song,C,Vireo_gilvus_Magee_Marsh_Ohio_418005.mp3,Song,Spring,Morning,4
+Vireo,flavifrons,39.2542,-84.7499,song,A,Vireo_flavifrons_Harrison_Township_near__Harrison_Hamilton_County_Ohio_719923.mp3,Song,Spring,Afternoon,69
+Vireo,flavifrons,39.5734,-84.0131,song,A,Vireo_flavifrons_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477608.mp3,Song,Spring,Afternoon,28
+Vireo,flavifrons,41.5445,-83.8462,song,A,Vireo_flavifrons_Oak_Openings_Metropark_Ohio_418068.mp3,Song,Spring,Afternoon,15
+Vireo,flavifrons,40.5652,-83.6255,song,A,Vireo_flavifrons_Lawrence_Woods_SNP_417991.mp3,Song,Spring,Afternoon,7
+Vireo,flavifrons,40.5652,-83.6255,song,A,Vireo_flavifrons_Lawrence_Woods_SNP_417990.mp3,Song,Spring,Afternoon,68
+Vireo,flavifrons,40.5652,-83.6255,song,A,Vireo_flavifrons_Lawrence_Woods_SNP_417989.mp3,Song,Spring,Afternoon,52
+Vireo,flavifrons,38.7047,-83.1429,song,A,Vireo_flavifrons_Shawnee_State_Forest_Scioto_County_Ohio_417452.mp3,Song,Spring,Morning,40
+Vireo,flavifrons,39.1317,-84.7973,song,B,Vireo_flavifrons_Miami_Township_near__North_Bend_Hamilton_County_Ohio_645966.mp3,Song,Spring,Morning,22
+Vireo,flavifrons,39.017,-84.1259,song,B,Vireo_flavifrons_East_Fork_Lake_SP_Clermont_County_Ohio_477410.mp3,Song,Spring,Afternoon,40
+Vireo,flavifrons,39.9871,-83.244,song,B,Vireo_flavifrons_Prairie_Oaks_Metro_Park--Sycamore_Plains_Area_182007.mp3,Song,Spring,Morning,63
+Vireo,griseus,39.2783,-84.7495,song,A,Vireo_griseus_Crosby_Township_near__New_Haven_Hamilton_County_Ohio_833700.mp3,Song,Fall,Evening,64
+Vireo,griseus,38.7047,-83.1429,song,A,Vireo_griseus_Shawnee_State_Forest_Scioto_County_Ohio_417441.mp3,Song,Spring,Morning,36
+Vireo,griseus,41.937,-82.51,song,A,Vireo_griseus_Point_Pelee_ON_83535.mp3,Song,Spring,Unknown,20
+Vireo,griseus,39.1317,-84.7973,song,B,Vireo_griseus_Miami_Township_near__North_Bend_Hamilton_County_Ohio_645855.mp3,Song,Spring,Morning,80
+Vireo,griseus,39.1317,-84.7973,song,B,Vireo_griseus_Miami_Township_near__North_Bend_Hamilton_County_Ohio_645853.mp3,Song,Spring,Morning,35
+Vireo,griseus,39.8788,-82.903,song,B,Vireo_griseus_Three_Creeks_Metro_Park--Confluence_Area_playground_Franklin_County_Ohio_186555.mp3,Song,Summer,Morning,29
+Vireo,griseus,41.62116,-83.16103,song,C,Vireo_griseus_Ohio_Crane_Creek_SP_17026.mp3,Song,Spring,Unknown,41
+Vireo,bellii,40.054,-83.189,song,B,Vireo_bellii_Heritage_Rail-Trail_South_of_Hayden_Run_Rd_~200m_south_of_mile_marker_2_across_from_nest_box_#10_103570.mp3,Song,Summer,Morning,176
+Vireo,bellii,40.056,-83.191,song,B,Vireo_bellii_Heritage_Rail-Trail_south_of_Hayden_Run_Rd_near_mowed_path_BEVI_#1_103569.mp3,Song,Summer,Morning,17
+Vireo,bellii,39.2095,-84.7821,song,E,Vireo_bellii_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_678953.mp3,Song,Summer,Evening,3
+Cyanocitta,cristata,41.9499,-82.5173,call,A,Cyanocitta_cristata_Pelee_near__Leamington_Essex_County_Ontario_476525.mp3,Call,Spring,Morning,14
+Cyanocitta,cristata,39.1756,-84.5274,alarm call,B,Cyanocitta_cristata_Cincinnati_Hamilton_County_Ohio_677298.mp3,Call,Fall,Morning,95
+Cyanocitta,cristata,39.1722,-84.643,call,B,Cyanocitta_cristata_Green_Township_near__Cincinnati_Hamilton_County_Ohio_672969.mp3,Call,Fall,Morning,13
+Cyanocitta,cristata,39.1278,-84.7987,call,B,Cyanocitta_cristata_Miami_near__North_Bend_Hamilton_County_Ohio_542143.mp3,Call,Spring,Morning,18
+Cyanocitta,cristata,39.2621,-84.751,call,C,Cyanocitta_cristata_Crosby_Township_near__Harrison_Hamilton_County_Ohio_807193.mp3,Call,Spring,Morning,13
+Cyanocitta,cristata,39.1722,-84.643,call,C,Cyanocitta_cristata_Green_Township_near__Cincinnati_Hamilton_County_Ohio_672963.mp3,Call,Fall,Morning,30
+Cyanocitta,cristata,41.4885,-81.5787,call,C,Cyanocitta_cristata_Ohio_near__Cleveland_Heights_Cuyahoga_County_Ohio_418322.mp3,Call,Spring,Morning,11
+Corvus,brachyrhynchos,39.2542,-84.7499,alarm call,A,Corvus_brachyrhynchos_Harrison_Township_near__Harrison_Hamilton_County_Ohio_691531.mp3,Call,Winter,Morning,101
+Corvus,brachyrhynchos,39.0078,-83.8085,"imitation, mimicry/imitation",A,Corvus_brachyrhynchos_mount_orab_ohio_691189.mp3,Other,Winter,Morning,30
+Corvus,brachyrhynchos,39.3439,-84.6688,call,B,Corvus_brachyrhynchos_Ross_Township_near__Hamilton_Butler_County_Ohio_533366.mp3,Call,Spring,Morning,19
+Corvus,ossifragus,41.9167,-82.5094,call,B,Corvus_ossifragus_Leamington_Essex_County_Ontario_320736.mp3,Call,Spring,Morning,21
+Corvus,ossifragus,41.1178,-81.4811,call,C,Corvus_ossifragus_Chapel_Hill_Plaza_Cuyahoga_Falls_Summit_County_Ohio_393849.mp3,Call,Fall,Afternoon,22
+Corvus,ossifragus,41.5003,-81.5189,call,C,Corvus_ossifragus_S_Green_Rd_&_Cedar_Rd_near__University_Heights_Cuyahoga_County_Ohio_268223.mp3,Call,Spring,Afternoon,54
+Corvus,ossifragus,41.1188,-81.4804,"call, flight call",D,Corvus_ossifragus_Howe_Ave_@_Jared__Cuyahoga_Falls_Summit_County_Ohio_398409.mp3,Call,Winter,Afternoon,5
+Baeolophus,bicolor,40.942,-81.5236,call,no score,Baeolophus_bicolor_Ohio_near__Akron_Summit_County_Ohio_376462.mp3,Call,Summer,Morning,15
+Baeolophus,bicolor,39.2432,-84.7609,"duet, song",A,Baeolophus_bicolor_Harrison_Township_near__Harrison_Hamilton_County_Ohio_807495.mp3,Song,Spring,Morning,24
+Baeolophus,bicolor,39.1914,-84.7174,song,A,Baeolophus_bicolor_Miami_Township_near__Cleves_Hamilton_County_Ohio_713584.mp3,Song,Spring,Afternoon,48
+Baeolophus,bicolor,39.283,-84.7459,call,A,Baeolophus_bicolor_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_691529.mp3,Call,Winter,Morning,22
+Baeolophus,bicolor,41.4517,-81.9473,None,B,Baeolophus_bicolor_Westlake_Cuyahoga_County_Ohio_726688.mp3,Unknown,Spring,Morning,21
+Baeolophus,bicolor,39.1722,-84.643,call,B,Baeolophus_bicolor_Green_Township_near__Cincinnati_Hamilton_County_Ohio_673001.mp3,Call,Fall,Morning,20
+Baeolophus,bicolor,39.1914,-84.7174,"call, song",B,Baeolophus_bicolor_Miami_Township_near__Cleves_Hamilton_County_Ohio_645567.mp3,Song,Spring,Morning,58
+Baeolophus,bicolor,39.8165,-84.2213,song,B,Baeolophus_bicolor_515_Park_End_Dr_Montgomery_Cty_OH_493455.mp3,Song,Summer,Afternoon,7
+Baeolophus,bicolor,39.017,-84.1259,song,B,Baeolophus_bicolor_East_Fork_Lake_SP_Clermont_County_Ohio_416551.mp3,Song,Spring,Morning,18
+Baeolophus,bicolor,41.5,-81.5032,call,B,Baeolophus_bicolor_Beachwood_Cuyahoga_County_Ohio_287347.mp3,Call,Fall,Morning,33
+Baeolophus,bicolor,41.5,-81.5032,call,B,Baeolophus_bicolor_Beachwood_Cuyahoga_County_Ohio_287345.mp3,Call,Fall,Morning,3
+Baeolophus,bicolor,39.1278,-84.7987,song,C,Baeolophus_bicolor_Miami_near__North_Bend_Hamilton_County_Ohio_542144.mp3,Song,Spring,Morning,50
+Baeolophus,bicolor,41.7135,-81.1984,"call, song, melodic",C,Baeolophus_bicolor_Painesville_Lake_Ohio_138137.mp3,Song,Summer,Evening,13
+Poecile,carolinensis,39.2432,-84.7609,"duet, song",A,Poecile_carolinensis_Harrison_Township_near__Harrison_Hamilton_County_Ohio_807462.mp3,Song,Spring,Afternoon,28
+Poecile,carolinensis,39.1723,-84.6432,"duet, song",A,Poecile_carolinensis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_779380.mp3,Song,Winter,Morning,48
+Poecile,carolinensis,40.5652,-83.6255,song,A,Poecile_carolinensis_Lawrence_Woods_SNP_417998.mp3,Song,Spring,Afternoon,36
+Poecile,carolinensis,39.1722,-84.643,song,B,Poecile_carolinensis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_726700.mp3,Song,Spring,Afternoon,16
+Poecile,carolinensis,39.1317,-84.7973,call,B,Poecile_carolinensis_Miami_Township_near__North_Bend_Hamilton_County_Ohio_713595.mp3,Call,Spring,Morning,126
+Poecile,carolinensis,39.1722,-84.643,call,B,Poecile_carolinensis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_673007.mp3,Call,Fall,Morning,11
+Poecile,carolinensis,39.1317,-84.7973,song,B,Poecile_carolinensis_Miami_Township_near__North_Bend_Hamilton_County_Ohio_645975.mp3,Song,Spring,Morning,20
+Poecile,carolinensis,40.5652,-83.6255,song,D,Poecile_carolinensis_Lawrence_Woods_SNP_417997.mp3,Song,Spring,Afternoon,14
+Poecile,atricapillus,41.556,-83.8548,song,A,Poecile_atricapillus_Swanton_Township_near__Swanton_Lucas_County_Ohio_939388.mp3,Song,Spring,Afternoon,17
+Poecile,atricapillus,41.6275,-83.1897,song,A,Poecile_atricapillus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814911.mp3,Song,Spring,Morning,201
+Poecile,atricapillus,41.9501,-82.5237,call,B,Poecile_atricapillus_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803377.mp3,Call,Spring,Afternoon,29
+Poecile,atricapillus,41.4517,-81.9473,None,C,Poecile_atricapillus_Westlake_Cuyahoga_County_Ohio_726692.mp3,Unknown,Spring,Morning,23
+Poecile,atricapillus,41.629,-83.194,"call, song",C,Poecile_atricapillus_Magee_Marsh_boardwalk_west_end_262804.mp3,Song,Summer,Afternoon,69
+Eremophila,alpestris,40.6843,-84.7217,song,B,Eremophila_alpestris_Dublin_Township_near__Rockford_Mercer_County_Ohio_716604.mp3,Song,Spring,Morning,27
+Eremophila,alpestris,41.93338,-83.54994,song,B,Eremophila_alpestris_Michigan_Monroe_County_16969.mp3,Song,Spring,Unknown,11
+Eremophila,alpestris,41.9017,-83.7812,song,B,Eremophila_alpestris_Michigan_Deerfield_11506.mp3,Song,Winter,Unknown,53
+Eremophila,alpestris,41.9017,-83.7812,call,B,Eremophila_alpestris_Michigan_Deerfield_11505.mp3,Call,Winter,Unknown,12
+Tachycineta,bicolor,41.9682,-82.5305,call,no score,Tachycineta_bicolor_Pelee_near__Leamington_Essex_County_Ontario_475639.mp3,Call,Spring,Morning,2
+Tachycineta,bicolor,41.928,-82.5083,song,A,Tachycineta_bicolor_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_839333.mp3,Song,Spring,Morning,17
+Tachycineta,bicolor,41.6275,-83.1897,"call, song",A,Tachycineta_bicolor_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827054.mp3,Song,Spring,Morning,234
+Tachycineta,bicolor,40.5681,-83.2743,flight call,B,Tachycineta_bicolor_Big_Island_WA_Marion_County_Ohio_737242.mp3,Call,Spring,Afternoon,12
+Tachycineta,bicolor,41.913,-82.5093,song,B,Tachycineta_bicolor_Pelee_Shuttle_Stop_near__Leamington_Essex_County_Ontario_477045.mp3,Song,Spring,Morning,18
+Tachycineta,bicolor,41.62116,-83.16103,song,C,Tachycineta_bicolor_Ohio_Crane_Creek_SP_17046.mp3,Song,Spring,Unknown,7
+Progne,subis,41.3832,-82.3215,call,A,Progne_subis_Vermilion_River_Reservation:_Mill_Hollow_near__Vermilion_Erie_County_Ohio_784046.mp3,Call,Spring,Morning,27
+Progne,subis,41.6075,-83.2096,call,B,Progne_subis_Ottawa_NWR_Lucas_County_Ohio_803616.mp3,Call,Spring,Afternoon,55
+Progne,subis,41.6122,-83.1723,song,B,Progne_subis_Magee_Marsh_Ohio_164751.mp3,Song,Spring,Morning,191
+Progne,subis,41.6122,-83.1723,song,B,Progne_subis_Magee_Marsh_Ohio_164748.mp3,Song,Spring,Morning,53
+Progne,subis,39.2432,-84.7609,flight call,C,Progne_subis_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_817716.mp3,Call,Summer,Morning,36
+Hirundo,rustica,39.1767,-84.6557,"call, flight call",B,Hirundo_rustica_Green_Township_near__Cincinnati_Hamilton_County_Ohio_833706.mp3,Call,Summer,Morning,30
+Corthylio,calendula,41.62116,-83.16103,song,C,Corthylio_calendula_Ohio_Crane_Creek_SP_17045.mp3,Song,Spring,Unknown,26
+Cistothorus,stellaris,39.941,-83.22,song,A,Cistothorus_stellaris_Battelle_Darby_Metro_Park--Cutoff_trail_from_Darby_Creek_Trail_past_barn_to_Darby_Creek_Rd._105741.mp3,Song,Summer,Evening,72
+Cistothorus,palustris,41.6075,-83.2096,song,A,Cistothorus_palustris_Jerusalem_Township_near__Bono_Lucas_County_Ohio_784047.mp3,Song,Spring,Evening,51
+Cistothorus,palustris,39.919,-83.2065,song,A,Cistothorus_palustris_Battelle_Darby_Metro_Park_-_Wetlands_417866.mp3,Song,Spring,Morning,30
+Cistothorus,palustris,39.919,-83.2065,song,A,Cistothorus_palustris_Battelle_Darby_Metro_Park_-_Wetlands_417865.mp3,Song,Spring,Morning,5
+Cistothorus,palustris,41.6156,-83.216,song,A,Cistothorus_palustris_Ohio_Ottawa_NWR_316630.mp3,Song,Spring,Afternoon,62
+Cistothorus,palustris,41.6156,-83.216,song,A,Cistothorus_palustris_Ohio_Ottawa_NWR_178295.mp3,Song,Spring,Morning,84
+Thryothorus,ludovicianus,39.2432,-84.7609,"song, Eastern Chipmunk",A,Thryothorus_ludovicianus_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_896572.mp3,Song,Spring,Morning,28
+Thryothorus,ludovicianus,41.9375,-82.5119,song,A,Thryothorus_ludovicianus_Camp_Henry_near__Wheatley_Essex_County_Ontario_840733.mp3,Song,Spring,Afternoon,50
+Thryothorus,ludovicianus,41.9501,-82.5237,song,A,Thryothorus_ludovicianus_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803581.mp3,Song,Spring,Morning,9
+Thryothorus,ludovicianus,39.1722,-84.643,song,A,Thryothorus_ludovicianus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_726631.mp3,Song,Spring,Afternoon,20
+Thryothorus,ludovicianus,39.5734,-84.0131,song,A,Thryothorus_ludovicianus_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477595.mp3,Song,Spring,Afternoon,54
+Thryothorus,ludovicianus,39.017,-84.1259,song,A,Thryothorus_ludovicianus_East_Fork_Lake_SP_Clermont_County_Ohio_416559.mp3,Song,Spring,Morning,72
+Thryothorus,ludovicianus,40.5104,-83.8524,song,B,Thryothorus_ludovicianus_Indian_Lake_Logan_County_Ohio_775052.mp3,Song,Summer,Morning,44
+Thryothorus,ludovicianus,40.5104,-83.8524,song,B,Thryothorus_ludovicianus_Indian_Lake_Logan_County_Ohio_775050.mp3,Song,Summer,Morning,27
+Thryothorus,ludovicianus,39.0767,-84.4156,song,B,Thryothorus_ludovicianus_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_542519.mp3,Song,Spring,Morning,93
+Thryothorus,ludovicianus,39.8161,-84.2254,song,B,Thryothorus_ludovicianus_Park_End_Dr_Montgomery_County_Ohio_477391.mp3,Song,Spring,Evening,19
+Thryothorus,ludovicianus,39.8031,-84.2047,song,C,Thryothorus_ludovicianus_Wegerzyn_garden_near__Dayton_Montgomery_County_Ohio_807207.mp3,Song,Spring,Morning,31
+Thryothorus,ludovicianus,41.5434,-83.8394,song,C,Thryothorus_ludovicianus_Oak_Openings_Lucas_County_Ohio_804996.mp3,Song,Spring,Morning,15
+Thryothorus,ludovicianus,39.1278,-84.7987,song,C,Thryothorus_ludovicianus_Miami_near__North_Bend_Hamilton_County_Ohio_542146.mp3,Song,Spring,Morning,59
+Thryothorus,ludovicianus,41.77227,-83.70994,song,C,Thryothorus_ludovicianus_Michigan_Whiteford_Township_17104.mp3,Song,Summer,Unknown,17
+Troglodytes,hiemalis,39.1317,-84.7973,"call, song",A,Troglodytes_hiemalis_Miami_Township_near__North_Bend_Hamilton_County_Ohio_713587.mp3,Song,Spring,Morning,42
+Troglodytes,hiemalis,41.2239,-81.5111,song,A,Troglodytes_hiemalis_Boston_Township_near__Peninsula_Summit_County_Ohio_646091.mp3,Song,Summer,Morning,27
+Troglodytes,aedon,39.1722,-84.643,song,A,Troglodytes_aedon_Green_Township_near__Cincinnati_Hamilton_County_Ohio_726630.mp3,Song,Spring,Afternoon,38
+Troglodytes,aedon,39.1914,-84.7174,song,A,Troglodytes_aedon_Miami_Township_near__Cleves_Hamilton_County_Ohio_645572.mp3,Song,Spring,Morning,25
+Troglodytes,aedon,41.494,-81.577,song,A,Troglodytes_aedon_Cleveland_Heights_Ohio_67466.mp3,Song,Spring,Unknown,98
+Troglodytes,aedon,41.6275,-83.1897,song,B,Troglodytes_aedon_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828461.mp3,Song,Spring,Morning,20
+Troglodytes,aedon,41.6275,-83.1897,song,B,Troglodytes_aedon_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828458.mp3,Song,Spring,Morning,74
+Troglodytes,aedon,41.9269,-82.5092,song,B,Troglodytes_aedon_Pelee_near__Leamington_Essex_County_Ontario_476573.mp3,Song,Spring,Evening,9
+Troglodytes,aedon,41.9669,-82.5324,song,B,Troglodytes_aedon_Pelee_near__Leamington_Essex_County_Ontario_473225.mp3,Song,Spring,Morning,8
+Troglodytes,aedon,40.822,-81.755,song,B,Troglodytes_aedon_Orrville_Ohio_53922.mp3,Song,Spring,Morning,16
+Troglodytes,aedon,39.0767,-84.4156,song,C,Troglodytes_aedon_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_552558.mp3,Song,Spring,Morning,23
+Troglodytes,aedon,41.5469,-81.6347,song,C,Troglodytes_aedon_Cleveland_Cuyahoga_County_Ohio_256649.mp3,Song,Summer,Morning,58
+Troglodytes,aedon,41.62116,-83.16103,song,C,Troglodytes_aedon_Ohio_Crane_Creek_SP_17053.mp3,Song,Spring,Unknown,53
+Troglodytes,aedon,41.62116,-83.16103,scold,C,Troglodytes_aedon_Ohio_Crane_Creek_SP_17052.mp3,Other,Spring,Unknown,13
+Troglodytes,aedon,40.7506,-84.3211,song,D,Troglodytes_aedon_Kendrick_Woods_State_Nature_Preserve_Allen_County_Ohio_775486.mp3,Song,Summer,Morning,152
+Polioptila,caerulea,41.9501,-82.5237,song,A,Polioptila_caerulea_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803379.mp3,Song,Spring,Afternoon,13
+Polioptila,caerulea,41.9501,-82.5237,call,A,Polioptila_caerulea_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803378.mp3,Call,Spring,Afternoon,31
+Polioptila,caerulea,41.9487,-82.5174,call,A,Polioptila_caerulea_Pelee_near__Leamington_Essex_County_Ontario_476524.mp3,Call,Spring,Afternoon,5
+Polioptila,caerulea,40.5652,-83.6255,call,A,Polioptila_caerulea_Lawrence_Woods_SNP_417993.mp3,Call,Spring,Afternoon,9
+Polioptila,caerulea,40.5652,-83.6255,call,A,Polioptila_caerulea_Lawrence_Woods_SNP_417992.mp3,Call,Spring,Afternoon,54
+Polioptila,caerulea,39.017,-84.1259,call,A,Polioptila_caerulea_East_Fork_Lake_SP_Clermont_County_Ohio_416548.mp3,Call,Spring,Morning,14
+Polioptila,caerulea,41.6275,-83.1897,"call, song",B,Polioptila_caerulea_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_816237.mp3,Song,Spring,Morning,126
+Polioptila,caerulea,41.6275,-83.1897,"call, song",B,Polioptila_caerulea_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_816236.mp3,Song,Spring,Morning,46
+Polioptila,caerulea,39.1237,-84.5904,call,B,Polioptila_caerulea_Dunham_Recreation_Complex_near__Cincinnati_Hamilton_County_Ohio_646424.mp3,Call,Spring,Afternoon,33
+Polioptila,caerulea,39.1914,-84.7174,call,B,Polioptila_caerulea_Miami_Township_near__Cleves_Hamilton_County_Ohio_645807.mp3,Call,Spring,Morning,143
+Polioptila,caerulea,39.0767,-84.4156,song,C,Polioptila_caerulea_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_552557.mp3,Song,Spring,Morning,30
+Polioptila,caerulea,41.62116,-83.16103,call,D,Polioptila_caerulea_Ohio_Crane_Creek_SP_17017.mp3,Call,Spring,Unknown,34
+Sitta,carolinensis,39.2542,-84.7499,call,A,Sitta_carolinensis_Harrison_Township_near__Harrison_Hamilton_County_Ohio_714979.mp3,Call,Spring,Morning,179
+Sitta,carolinensis,39.0423,-84.5459,alarm call,A,Sitta_carolinensis_Fort_Mitchell_Kenton_County_Kentucky_687224.mp3,Call,Fall,Morning,26
+Sitta,carolinensis,40.5652,-83.6255,call,A,Sitta_carolinensis_Lawrence_Woods_SNP_417999.mp3,Call,Spring,Afternoon,9
+Sitta,carolinensis,39.1722,-84.643,call,B,Sitta_carolinensis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_673000.mp3,Call,Fall,Morning,16
+Sitta,carolinensis,39.2492,-84.7579,call,C,Sitta_carolinensis_Harrison_Township_near__Harrison_Hamilton_County_Ohio_807181.mp3,Call,Winter,Afternoon,121
+Sitta,canadensis,39.1756,-84.5274,call,B,Sitta_canadensis_Cincinnati_Hamilton_County_Ohio_677294.mp3,Call,Fall,Morning,45
+Sitta,canadensis,39.1756,-84.5274,call,C,Sitta_canadensis_Cincinnati_Hamilton_County_Ohio_677292.mp3,Call,Fall,Morning,43
+Sitta,canadensis,39.1756,-84.5274,call,D,Sitta_canadensis_Cincinnati_Hamilton_County_Ohio_677293.mp3,Call,Fall,Morning,98
+Certhia,americana,41.9262,-82.5081,song,A,Certhia_americana_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_839192.mp3,Song,Spring,Morning,14
+Certhia,americana,39.0423,-84.5459,call,B,Certhia_americana_Fort_Mitchell_Kenton_County_Kentucky_687202.mp3,Call,Fall,Morning,6
+Dumetella,carolinensis,41.6275,-83.1897,"call, song",A,Dumetella_carolinensis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814891.mp3,Song,Spring,Morning,171
+Dumetella,carolinensis,41.6275,-83.1897,song,A,Dumetella_carolinensis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814888.mp3,Song,Spring,Morning,214
+Dumetella,carolinensis,41.9501,-82.5237,call,A,Dumetella_carolinensis_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_805532.mp3,Call,Spring,Afternoon,20
+Dumetella,carolinensis,40.567,-83.6182,song,A,Dumetella_carolinensis_Lawrence_Woods_SNP_477577.mp3,Song,Spring,Afternoon,22
+Dumetella,carolinensis,41.9269,-82.5092,call,A,Dumetella_carolinensis_Pelee_near__Leamington_Essex_County_Ontario_476572.mp3,Call,Spring,Night,27
+Dumetella,carolinensis,41.6275,-83.1897,call,B,Dumetella_carolinensis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814890.mp3,Call,Spring,Morning,18
+Dumetella,carolinensis,41.6275,-83.1897,song,B,Dumetella_carolinensis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814889.mp3,Song,Spring,Morning,24
+Dumetella,carolinensis,39.2058,-84.7876,song,B,Dumetella_carolinensis_Whitewater_Township_near__White_Water_Park_Hamilton_County_Ohio_807552.mp3,Song,Spring,Morning,35
+Dumetella,carolinensis,41.4102,-82.6028,song,B,Dumetella_carolinensis_Sheldon_Marsh_State_Nature_Preserve_723020.mp3,Song,Spring,Night,30
+Dumetella,carolinensis,41.8778,-83.6853,call,B,Dumetella_carolinensis_Michigan_Petersburg_SGA__31053.mp3,Call,Spring,Unknown,12
+Dumetella,carolinensis,41.62116,-83.16103,song,B,Dumetella_carolinensis_Ohio_Crane_Creek_SP_17041.mp3,Song,Spring,Unknown,28
+Dumetella,carolinensis,41.629,-83.194,call,C,Dumetella_carolinensis_Magee_Marsh_boardwalk_west_end_262807.mp3,Call,Summer,Afternoon,127
+Dumetella,carolinensis,41.629,-83.194,call,C,Dumetella_carolinensis_Magee_Marsh_boardwalk_west_end_262806.mp3,Call,Summer,Afternoon,136
+Mimus,polyglottos,39.1767,-84.6557,"call, flight call, imitation, song",A,Mimus_polyglottos_Green_Township_near__Cincinnati_Hamilton_County_Ohio_807536.mp3,Song,Spring,Morning,89
+Mimus,polyglottos,39.1767,-84.6557,"imitation, song",A,Mimus_polyglottos_Green_Township_near__Cincinnati_Hamilton_County_Ohio_807449.mp3,Song,Spring,Morning,41
+Mimus,polyglottos,39.1756,-84.5274,"imitation, song",A,Mimus_polyglottos_Cincinnati_Hamilton_County_Ohio_677297.mp3,Song,Fall,Morning,18
+Mimus,polyglottos,39.1756,-84.5274,"imitation, song",A,Mimus_polyglottos_Cincinnati_Hamilton_County_Ohio_677295.mp3,Song,Fall,Morning,201
+Mimus,polyglottos,39.1237,-84.5904,"imitation, song, mimicry/imitation",B,Mimus_polyglottos_Dunham_Recreation_Complex_near__Cincinnati_Hamilton_County_Ohio_646400.mp3,Song,Spring,Afternoon,272
+Toxostoma,rufum,40.0357,-82.1959,song,A,Toxostoma_rufum_Hanover_Township_Licking_County_Ohio_893646.mp3,Song,Spring,Evening,168
+Toxostoma,rufum,41.9501,-82.5237,song,A,Toxostoma_rufum_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803578.mp3,Song,Spring,Afternoon,45
+Toxostoma,rufum,39.1767,-84.6557,song,B,Toxostoma_rufum_Green_Township_near__Cincinnati_Hamilton_County_Ohio_807480.mp3,Song,Spring,Morning,24
+Toxostoma,rufum,39.1237,-84.5904,song,B,Toxostoma_rufum_Dunham_Recreation_Complex_near__Cincinnati_Hamilton_County_Ohio_646427.mp3,Song,Spring,Afternoon,28
+Toxostoma,rufum,39.1914,-84.7174,song,B,Toxostoma_rufum_Miami_Township_near__Cleves_Hamilton_County_Ohio_645811.mp3,Song,Spring,Morning,52
+Toxostoma,rufum,40.503,-84.4574,song,B,Toxostoma_rufum_Franklin_Township_near__Saint_Marys_Mercer_County_Ohio_637650.mp3,Song,Spring,Evening,73
+Toxostoma,rufum,39.308,-84.6955,song,B,Toxostoma_rufum_Ross_Township_near__Hamilton_Butler_County_Ohio_632519.mp3,Song,Spring,Afternoon,125
+Toxostoma,rufum,41.9499,-82.5173,song,B,Toxostoma_rufum_Pelee_near__Leamington_Essex_County_Ontario_476526.mp3,Song,Spring,Evening,13
+Toxostoma,rufum,41.2152,-81.5261,song,B,Toxostoma_rufum_Virginia_Kendall_Lake_Peninsula_Summit_County_Ohio_412205.mp3,Song,Spring,Morning,59
+Sturnus,vulgaris,41.93338,-83.54994,call,A,Sturnus_vulgaris_Michigan_Monroe_County_17173.mp3,Call,Summer,Unknown,1
+Sialia,sialis,39.1756,-84.5274,call,C,Sialia_sialis_Cincinnati_Hamilton_County_Ohio_677299.mp3,Call,Fall,Morning,11
+Sialia,sialis,41.93338,-83.54994,call,D,Sialia_sialis_Michigan_Monroe_County_17169.mp3,Call,Summer,Unknown,13
+Hylocichla,mustelina,39.2432,-84.7609,song,A,Hylocichla_mustelina_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_817713.mp3,Song,Summer,Morning,41
+Hylocichla,mustelina,41.6418,-83.439,song,A,Hylocichla_mustelina_Packer-Hammersmith_Center_near__Oregon_Lucas_County_Ohio_784058.mp3,Song,Spring,Afternoon,168
+Hylocichla,mustelina,41.6275,-83.1897,song,B,Hylocichla_mustelina_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827229.mp3,Song,Spring,Morning,87
+Hylocichla,mustelina,39.1317,-84.7973,song,B,Hylocichla_mustelina_Miami_Township_near__North_Bend_Hamilton_County_Ohio_646004.mp3,Song,Spring,Morning,82
+Hylocichla,mustelina,39.1225,-84.8099,song,C,Hylocichla_mustelina_Miami_Township_near__North_Bend_Hamilton_County_Ohio_552552.mp3,Song,Spring,Morning,15
+Hylocichla,mustelina,39.2769,-84.4005,song,C,Hylocichla_mustelina_Sharon_Woods_near__Cincinnati_Hamilton_County_Ohio_483768.mp3,Song,Summer,Morning,53
+Hylocichla,mustelina,39.9871,-83.244,song,C,Hylocichla_mustelina_Prairie_Oaks_Metro_Park--Sycamore_Plains_Area_182009.mp3,Song,Spring,Morning,27
+Hylocichla,mustelina,41.62116,-83.16103,call,C,Hylocichla_mustelina_Ohio_Crane_Creek_SP_17042.mp3,Call,Spring,Unknown,24
+Hylocichla,mustelina,41.93338,-83.54994,song,C,Hylocichla_mustelina_Michigan_Monroe_County_16970.mp3,Song,Spring,Unknown,60
+Catharus,ustulatus,41.5445,-83.8462,song,B,Catharus_ustulatus_Oak_Openings_Metropark_Ohio_418075.mp3,Song,Spring,Afternoon,11
+Catharus,ustulatus,41.0111,-81.514,song,B,Catharus_ustulatus_Firestone_Metropark_Summit_County_Ohio_368004.mp3,Song,Spring,Morning,10
+Catharus,ustulatus,40.024,-83.039,call,B,Catharus_ustulatus_Bricker_Blvd_near_Cranbrook_Elementary_Columbus_OH_127737.mp3,Call,Fall,Morning,2
+Catharus,ustulatus,39.986,-83.02,flight call,D,Catharus_ustulatus_Columbus_Ohio_flight_call_recording_station_55203.mp3,Call,Fall,Morning,60
+Catharus,minimus,40.024,-83.039,flight call,B,Catharus_minimus_Bricker_Blvd_near_Cranbrook_Elementary_Columbus_OH_127734.mp3,Call,Fall,Morning,5
+Catharus,fuscescens,41.5434,-83.8394,song,C,Catharus_fuscescens_Oak_Openings_Lucas_County_Ohio_803619.mp3,Song,Spring,Morning,48
+Turdus,migratorius,39.2453,-84.7581,song,A,Turdus_migratorius_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728269.mp3,Song,Spring,Afternoon,37
+Turdus,migratorius,41.9391,-82.5143,song,A,Turdus_migratorius_Pelee_near__Leamington_Essex_County_Ontario_476496.mp3,Song,Spring,Afternoon,40
+Turdus,migratorius,41.9446,-82.5172,alarm call,A,Turdus_migratorius_Pelee_near__Leamington_Essex_County_Ontario_476494.mp3,Call,Spring,Night,24
+Turdus,migratorius,39.1767,-84.6557,song,B,Turdus_migratorius_Green_Township_near__Cincinnati_Hamilton_County_Ohio_807538.mp3,Song,Spring,Morning,18
+Turdus,migratorius,41.5662,-83.5796,song,B,Turdus_migratorius_Rossford_Wood_County_Ohio_803608.mp3,Song,Spring,Night,42
+Turdus,migratorius,40.024,-83.039,song,B,Turdus_migratorius_Bricker_Blvd_near_Cranbrook_Elementary_Columbus_OH_103571.mp3,Song,Summer,Night,147
+Spinus,tristis,39.7907,-83.8681,song,A,Spinus_tristis_Miami_Township_near__Yellow_Springs_Greene_County_Ohio_756999.mp3,Song,Summer,Afternoon,35
+Spinus,tristis,41.8778,-83.6853,song,A,Spinus_tristis_Michigan_Petersburg_SGA_31023.mp3,Song,Spring,Unknown,22
+Spinus,tristis,41.9203,-82.5094,call,B,Spinus_tristis_Pelee_near__Leamington_Essex_County_Ontario_476269.mp3,Call,Spring,Morning,35
+Spinus,tristis,39.1317,-84.7973,"call, flight call, song",C,Spinus_tristis_Miami_Township_near__North_Bend_Hamilton_County_Ohio_646115.mp3,Song,Spring,Morning,64
+Ammodramus,savannarum,41.93338,-83.54994,song,C,Ammodramus_savannarum_Michigan_Monroe_County_16953.mp3,Song,Spring,Unknown,44
+Chondestes,grammacus,41.9573,-83.9437,song,C,Chondestes_grammacus_Ives_Road_Fen_Raisin_Charter_Township_near__Tecumseh_Lenawee_County_Michigan_734597.mp3,Song,Summer,Morning,41
+Chondestes,grammacus,41.9573,-83.9437,song,C,Chondestes_grammacus_Ives_Road_Fen_Raisin_Charter_Township_near__Tecumseh_Lenawee_County_Michigan_734596.mp3,Song,Summer,Morning,28
+Chondestes,grammacus,41.8778,-83.6853,song,C,Chondestes_grammacus_Michigan_Petersburg_SGA__31027.mp3,Song,Spring,Morning,56
+Spizella,passerina,39.1914,-84.7174,song,A,Spizella_passerina_Miami_Township_near__Cleves_Hamilton_County_Ohio_645554.mp3,Song,Spring,Morning,71
+Spizella,passerina,41.9326,-82.5108,song,A,Spizella_passerina_Pelee_near__Leamington_Essex_County_Ontario_476560.mp3,Song,Spring,Morning,13
+Spizella,passerina,41.93338,-83.54994,song,A,Spizella_passerina_Michigan_Monroe_County_16985.mp3,Song,Spring,Unknown,46
+Spizella,passerina,39.1278,-84.7987,song,B,Spizella_passerina_Miami_near__North_Bend_Hamilton_County_Ohio_542142.mp3,Song,Spring,Morning,77
+Spizella,passerina,41.93338,-83.54994,"song, atypical",C,Spizella_passerina_Michigan_Monroe_County_16984.mp3,Song,Spring,Unknown,61
+Spizella,passerina,41.93338,-83.54994,song,C,Spizella_passerina_Michigan_Monroe_County_16983.mp3,Song,Spring,Unknown,28
+Spizella,passerina,41.93338,-83.54994,song,C,Spizella_passerina_Michigan_Monroe_County_16982.mp3,Song,Spring,Unknown,2
+Spizella,passerina,41.93338,-83.54994,song,C,Spizella_passerina_Michigan_Monroe_County_16981.mp3,Song,Spring,Unknown,18
+Spizella,passerina,41.93338,-83.54994,song,E,Spizella_passerina_Michigan_Monroe_County_17172.mp3,Song,Summer,Unknown,28
+Spizella,pusilla,39.8888,-82.7978,song,no score,Spizella_pusilla_Madison_Township_near__Canal_Winchester_Franklin_County_Ohio_554398.mp3,Song,Spring,Afternoon,20
+Spizella,pusilla,39.1915,-84.7179,song,A,Spizella_pusilla_Miami_Township_near__Cleves_Hamilton_County_Ohio_807577.mp3,Song,Spring,Morning,71
+Spizella,pusilla,41.5445,-83.8462,song,A,Spizella_pusilla_Oak_Openings_Metropark_Ohio_418069.mp3,Song,Spring,Afternoon,18
+Spizella,pusilla,40.5652,-83.6255,song,A,Spizella_pusilla_Lawrence_Woods_SNP_417977.mp3,Song,Spring,Afternoon,4
+Spizella,pusilla,40.5652,-83.6255,song,A,Spizella_pusilla_Lawrence_Woods_SNP_417975.mp3,Song,Spring,Afternoon,56
+Spizella,pusilla,41.5434,-83.8394,song,B,Spizella_pusilla_Oak_Openings_Lucas_County_Ohio_803618.mp3,Song,Spring,Morning,26
+Spizella,pusilla,39.2095,-84.7821,song,B,Spizella_pusilla_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726763.mp3,Song,Spring,Morning,5
+Spizella,pusilla,40.7091,-83.3685,song,B,Spizella_pusilla_Marseilles_Township_near__Upper_Sandusky_Wyandot_County_Ohio_637645.mp3,Song,Spring,Morning,52
+Spizella,pusilla,39.017,-84.1259,song,B,Spizella_pusilla_East_Fork_Lake_SP_Clermont_County_Ohio_416557.mp3,Song,Spring,Morning,4
+Spizella,pusilla,39.2962,-84.6947,song,C,Spizella_pusilla_Crosby_Township_near__Harrison_Hamilton_County_Ohio_632520.mp3,Song,Spring,Morning,42
+Spizella,pusilla,41.93338,-83.54994,song,D,Spizella_pusilla_Michigan_Monroe_County_16986.mp3,Song,Spring,Unknown,61
+Passerella,iliaca,41.0165,-81.5214,song,B,Passerella_iliaca_Firestone_Metropark_Summit_County_Ohio_407934.mp3,Song,Spring,Morning,26
+Junco,hyemalis,41.433,-81.438,call,A,Junco_hyemalis_Pebblebrook_Lane_Moreland_Hills_Ohio_79986.mp3,Call,Summer,Morning,63
+Zonotrichia,albicollis,41.1339,-81.4846,flight call,D,Zonotrichia_albicollis_Cuyahoga_Falls_Summit_County_Ohio_475087.mp3,Call,Spring,Night,17
+Pooecetes,gramineus,41.93338,-83.54994,song,B,Pooecetes_gramineus_Michigan_Monroe_County_17154.mp3,Song,Summer,Unknown,16
+Pooecetes,gramineus,41.93338,-83.54994,"call, song",B,Pooecetes_gramineus_Michigan_Monroe_County_17095.mp3,Song,Summer,Unknown,20
+Pooecetes,gramineus,41.93338,-83.54994,song,C,Pooecetes_gramineus_Michigan_Monroe_County_16978.mp3,Song,Spring,Unknown,49
+Centronyx,henslowii,39.2976,-84.6927,song,A,Centronyx_henslowii_Ross_Township_near__Ross_Butler_County_Ohio_807504.mp3,Song,Spring,Morning,19
+Centronyx,henslowii,39.919,-83.2065,song,A,Centronyx_henslowii_Battelle_Darby_Metro_Park_-_Wetlands_417868.mp3,Song,Spring,Morning,12
+Centronyx,henslowii,39.919,-83.2065,song,A,Centronyx_henslowii_Battelle_Darby_Metro_Park_-_Wetlands_417867.mp3,Song,Spring,Morning,71
+Centronyx,henslowii,39.283,-84.7459,song,A,Centronyx_henslowii_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_302926.mp3,Song,Spring,Afternoon,31
+Centronyx,henslowii,39.917,-83.207,song,B,Centronyx_henslowii_Battelle_Darby_Metro_Park--Grain_Elevator_Wetlands_106752.mp3,Song,Summer,Evening,22
+Melospiza,melodia,41.6275,-83.1897,song,A,Melospiza_melodia_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_826141.mp3,Song,Spring,Morning,25
+Melospiza,melodia,41.6275,-83.1897,song,A,Melospiza_melodia_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_826140.mp3,Song,Spring,Morning,36
+Melospiza,melodia,39.1767,-84.6557,song,A,Melospiza_melodia_Green_Township_near__Cincinnati_Hamilton_County_Ohio_807468.mp3,Song,Spring,Morning,43
+Melospiza,melodia,41.9501,-82.5237,song,A,Melospiza_melodia_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_806074.mp3,Song,Spring,Afternoon,23
+Melospiza,melodia,39.941,-83.225,song,A,Melospiza_melodia_Battelle_Darby_Metro_Park--Darby_Dan_Training_Loop_trail_SW_corner_105818.mp3,Song,Summer,Afternoon,59
+Melospiza,melodia,39.283,-84.7459,call,B,Melospiza_melodia_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_687157.mp3,Call,Fall,Afternoon,28
+Melospiza,melodia,41.5445,-83.8462,song,B,Melospiza_melodia_Oak_Openings_Metropark_Ohio_418071.mp3,Song,Spring,Afternoon,16
+Melospiza,melodia,41.93338,-83.54994,song,C,Melospiza_melodia_Michigan_Monroe_County_16972.mp3,Song,Spring,Unknown,3
+Melospiza,melodia,41.93338,-83.54994,song,E,Melospiza_melodia_Michigan_Monroe_County_17143.mp3,Song,Summer,Unknown,34
+Melospiza,georgiana,39.283,-84.7459,call,A,Melospiza_georgiana_Miami_Whitewater_Forest_Park_wetlands_Crosby_Township_near__Harrison_Hamilton_County_Ohio_687137.mp3,Call,Fall,Afternoon,10
+Melospiza,georgiana,39.919,-83.2065,song,A,Melospiza_georgiana_Battelle_Darby_Metro_Park_-_Wetlands_417851.mp3,Song,Spring,Morning,6
+Melospiza,georgiana,41.9681,-82.531,song,B,Melospiza_georgiana_Pelee_near__Leamington_Essex_County_Ontario_475341.mp3,Song,Spring,Morning,1
+Melospiza,georgiana,41.169,-81.572,song,B,Melospiza_georgiana_Cuyhaoga_National_Forest_57835.mp3,Song,Summer,Afternoon,21
+Pipilo,erythrophthalmus,38.7592,-83.4072,song,A,Pipilo_erythrophthalmus_Edge_of_Appalachia_Preserve_Adams_Cty_Ohio_939170.mp3,Song,Spring,Afternoon,37
+Pipilo,erythrophthalmus,41.9501,-82.5237,song,A,Pipilo_erythrophthalmus_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_805531.mp3,Song,Spring,Afternoon,43
+Pipilo,erythrophthalmus,39.1723,-84.6432,call,A,Pipilo_erythrophthalmus_Green_Township_near__Cincinnati_Hamilton_County_Ohio_779377.mp3,Call,Winter,Morning,22
+Pipilo,erythrophthalmus,39.1914,-84.7174,song,A,Pipilo_erythrophthalmus_Miami_Township_near__Cleves_Hamilton_County_Ohio_645749.mp3,Song,Spring,Morning,44
+Pipilo,erythrophthalmus,41.9563,-82.5268,song,A,Pipilo_erythrophthalmus_Pelee_near__Leamington_Essex_County_Ontario_476567.mp3,Song,Spring,Afternoon,18
+Pipilo,erythrophthalmus,38.7638,-83.463,song,A,Pipilo_erythrophthalmus_Brush_Creek_near__West_Union_Adams_County_Ohio_178534.mp3,Song,Spring,Night,31
+Pipilo,erythrophthalmus,39.3439,-84.6688,song,B,Pipilo_erythrophthalmus_Ross_Township_near__Hamilton_Butler_County_Ohio_533333.mp3,Song,Spring,Morning,59
+Pipilo,erythrophthalmus,38.7421,-83.2649,song,B,Pipilo_erythrophthalmus_Upper_Twin_Creek_Rd_Scioto_County_Ohio_417606.mp3,Song,Spring,Afternoon,22
+Pipilo,erythrophthalmus,39.017,-84.1259,song,B,Pipilo_erythrophthalmus_East_Fork_Lake_SP_Clermont_County_Ohio_416553.mp3,Song,Spring,Morning,50
+Pipilo,erythrophthalmus,41.8778,-83.6853,song,B,Pipilo_erythrophthalmus_Michigan_Petersburg_SGA__31106.mp3,Song,Spring,Unknown,43
+Pipilo,erythrophthalmus,41.93338,-83.54994,call,B,Pipilo_erythrophthalmus_Michigan_Monroe_County_17150.mp3,Call,Summer,Unknown,20
+Pipilo,erythrophthalmus,39.017,-84.1259,song,C,Pipilo_erythrophthalmus_East_Fork_Lake_SP_Clermont_County_Ohio_416552.mp3,Song,Spring,Morning,14
+Pipilo,erythrophthalmus,41.8778,-83.6853,song,C,Pipilo_erythrophthalmus_Michigan_Petersburg_SGA__31105.mp3,Song,Spring,Unknown,4
+Pipilo,erythrophthalmus,41.93338,-83.54994,call,C,Pipilo_erythrophthalmus_Michigan_Monroe_County_17151.mp3,Call,Summer,Unknown,11
+Pipilo,erythrophthalmus,41.5434,-83.8394,song,D,Pipilo_erythrophthalmus_Oak_Openings_Lucas_County_Ohio_804997.mp3,Song,Spring,Morning,5
+Icteria,virens,39.1915,-84.7179,"flight call, song",A,Icteria_virens_Miami_Township_near__Cleves_Hamilton_County_Ohio_807580.mp3,Song,Spring,Morning,88
+Icteria,virens,39.1317,-84.7973,song,D,Icteria_virens_Miami_Township_near__North_Bend_Hamilton_County_Ohio_646037.mp3,Song,Spring,Morning,24
+Dolichonyx,oryzivorus,41.496,-81.423,song,B,Dolichonyx_oryzivorus_Case_Farm_Gates_Mills_Ohio_67480.mp3,Song,Spring,Morning,60
+Sturnella,neglecta,41.7453,-83.8003,song,C,Sturnella_neglecta_Riga_Township_near__Ottawa_Lake_Lenawee_County_Michigan_332656.mp3,Song,Summer,Morning,3
+Sturnella,magna,39.3594,-84.3552,song,A,Sturnella_magna_Voice_of_America_MetroPark_near__Middletown_Butler_County_Ohio_645577.mp3,Song,Spring,Afternoon,30
+Sturnella,magna,39.3594,-84.3552,song,B,Sturnella_magna_Voice_of_America_MetroPark_near__Middletown_Butler_County_Ohio_643650.mp3,Song,Spring,Afternoon,29
+Icterus,galbula,41.6275,-83.1897,subsong,A,Icterus_galbula_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_820108.mp3,Song,Spring,Morning,105
+Icterus,galbula,41.6275,-83.1897,call,A,Icterus_galbula_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_818924.mp3,Call,Spring,Morning,29
+Icterus,galbula,41.9501,-82.5237,song,A,Icterus_galbula_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803372.mp3,Song,Spring,Morning,25
+Icterus,galbula,39.2095,-84.7821,song,A,Icterus_galbula_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726803.mp3,Song,Spring,Morning,6
+Icterus,galbula,39.1237,-84.5904,song,A,Icterus_galbula_Dunham_Recreation_Complex_near__Cincinnati_Hamilton_County_Ohio_646455.mp3,Song,Spring,Afternoon,27
+Icterus,galbula,41.9494,-82.5122,song,A,Icterus_galbula_Pelee_near__Leamington_Essex_County_Ontario_476519.mp3,Song,Spring,Afternoon,10
+Icterus,galbula,40.1842,-83.9647,song,B,Icterus_galbula_Kiser_Lake_SP_Champaign_County_Ohio_938239.mp3,Song,Spring,Afternoon,29
+Icterus,galbula,40.1842,-83.9647,song,B,Icterus_galbula_Kiser_Lake_SP_Champaign_County_Ohio_938235.mp3,Song,Spring,Afternoon,30
+Icterus,galbula,41.6275,-83.1897,subsong,B,Icterus_galbula_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_820109.mp3,Song,Spring,Morning,193
+Icterus,galbula,41.6275,-83.1897,"call, song",B,Icterus_galbula_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_818926.mp3,Song,Spring,Morning,225
+Icterus,galbula,41.6275,-83.1897,song,B,Icterus_galbula_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_818925.mp3,Song,Spring,Afternoon,42
+Icterus,galbula,39.2535,-84.763,song,B,Icterus_galbula_Tanager_Meadow_Reservable_Shelter_near__Harrison_Hamilton_County_Ohio_807350.mp3,Song,Spring,Morning,15
+Icterus,galbula,39.2535,-84.763,call,B,Icterus_galbula_Tanager_Meadow_Reservable_Shelter_near__Harrison_Hamilton_County_Ohio_807347.mp3,Call,Spring,Morning,19
+Icterus,galbula,39.8161,-84.2254,"call, song",B,Icterus_galbula_Park_End_Dr_Montgomery_County_Ohio_477390.mp3,Song,Spring,Afternoon,43
+Icterus,galbula,41.6122,-83.1723,song,B,Icterus_galbula_Magee_Marsh_Ohio_418002.mp3,Song,Spring,Morning,5
+Icterus,galbula,41.4153,-82.8291,"call, song",B,Icterus_galbula_Resthaven_Wildlife_Area_Erie_County_Ohio_217786.mp3,Song,Spring,Morning,46
+Icterus,galbula,41.93338,-83.54994,"call, song",B,Icterus_galbula_Michigan_Monroe_County_16971.mp3,Song,Spring,Unknown,41
+Icterus,galbula,41.6275,-83.1897,"call, song",C,Icterus_galbula_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_820106.mp3,Song,Spring,Morning,102
+Icterus,spurius,41.6847,-83.395,song,A,Icterus_spurius_Maumee_Bay_SP_Ohio_806260.mp3,Song,Spring,Morning,80
+Icterus,spurius,41.6156,-83.216,song,A,Icterus_spurius_Ohio_Ottawa_NWR_178296.mp3,Song,Spring,Morning,83
+Icterus,spurius,40.06,-83.197,song,B,Icterus_spurius_Heritage_Trail_Metro_Park_Hayden_Run_Rd_parking_area_103503.mp3,Song,Summer,Morning,78
+Icterus,spurius,40.06,-83.197,song,B,Icterus_spurius_Heritage_Trail_Metro_Park_Hayden_Run_Rd_parking_area_103502.mp3,Song,Summer,Morning,85
+Icterus,spurius,41.77227,-83.70994,song,B,Icterus_spurius_Michigan_Whiteford_Township_17091.mp3,Song,Summer,Unknown,44
+Icterus,spurius,41.77227,-83.70994,song,B,Icterus_spurius_Michigan_Whiteford_Township_17090.mp3,Song,Summer,Unknown,43
+Agelaius,phoeniceus,40.1842,-83.9647,call,A,Agelaius_phoeniceus_Kiser_Lake_SP_Champaign_County_Ohio_938242.mp3,Call,Spring,Afternoon,18
+Agelaius,phoeniceus,41.6275,-83.1897,"call, song",A,Agelaius_phoeniceus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814755.mp3,Song,Spring,Morning,450
+Agelaius,phoeniceus,41.6275,-83.1897,"call, song",A,Agelaius_phoeniceus_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814751.mp3,Song,Spring,Morning,182
+Agelaius,phoeniceus,39.8031,-84.2047,"call, song",A,Agelaius_phoeniceus_Wegerzyn_garden_near__Dayton_Montgomery_County_Ohio_807222.mp3,Song,Spring,Morning,44
+Agelaius,phoeniceus,39.1237,-84.5904,song,A,Agelaius_phoeniceus_Dunham_Recreation_Complex_near__Cincinnati_Hamilton_County_Ohio_646125.mp3,Song,Spring,Afternoon,45
+Agelaius,phoeniceus,40.503,-84.4574,song,A,Agelaius_phoeniceus_Franklin_Township_near__Saint_Marys_Mercer_County_Ohio_637652.mp3,Song,Spring,Evening,47
+Agelaius,phoeniceus,41.9628,-82.5184,song,A,Agelaius_phoeniceus_Pelee_near__Leamington_Essex_County_Ontario_477032.mp3,Song,Spring,Afternoon,24
+Agelaius,phoeniceus,39.919,-83.2065,call,A,Agelaius_phoeniceus_Battelle_Darby_Metro_Park_-_Wetlands_417853.mp3,Call,Spring,Morning,38
+Agelaius,phoeniceus,39.919,-83.2065,"call, song",A,Agelaius_phoeniceus_Battelle_Darby_Metro_Park_-_Wetlands_417845.mp3,Song,Spring,Morning,50
+Agelaius,phoeniceus,41.4512,-82.6645,song,B,Agelaius_phoeniceus_Pipe_Creek_Wildlife_Area_Erie_County_Ohio_803614.mp3,Song,Spring,Morning,32
+Agelaius,phoeniceus,39.919,-83.2065,call,B,Agelaius_phoeniceus_Battelle_Darby_Metro_Park_-_Wetlands_737241.mp3,Call,Spring,Morning,5
+Agelaius,phoeniceus,39.3439,-84.6688,song,B,Agelaius_phoeniceus_Ross_Township_near__Hamilton_Butler_County_Ohio_533370.mp3,Song,Spring,Morning,49
+Agelaius,phoeniceus,39.2855,-84.7424,song,B,Agelaius_phoeniceus_Crosby_Township_near__Harrison_Hamilton_County_Ohio_482675.mp3,Song,Summer,Morning,101
+Agelaius,phoeniceus,41.496,-81.423,"call, song",B,Agelaius_phoeniceus_Case_Farm_Gates_Mills_Ohio_98722.mp3,Song,Spring,Morning,61
+Agelaius,phoeniceus,41.62116,-83.16103,"call, calls",B,Agelaius_phoeniceus_Ohio_Crane_Creek_SP_17011.mp3,Call,Spring,Unknown,19
+Agelaius,phoeniceus,41.6802,-83.3519,song,C,Agelaius_phoeniceus_Maumee_Bay_State_Park_Lucas_County_Ohio_821130.mp3,Song,Summer,Afternoon,54
+Agelaius,phoeniceus,41.6802,-83.3519,call,C,Agelaius_phoeniceus_Maumee_Bay_State_Park_Lucas_County_Ohio_821123.mp3,Call,Summer,Afternoon,3
+Agelaius,phoeniceus,39.2855,-84.7424,"call, song",D,Agelaius_phoeniceus_UC_Center_for_Field_Studies_482986.mp3,Song,Summer,Morning,111
+Molothrus,ater,39.1914,-84.7174,call,B,Molothrus_ater_Miami_Township_near__Cleves_Hamilton_County_Ohio_645734.mp3,Call,Spring,Morning,29
+Molothrus,ater,41.9278,-82.5122,song,B,Molothrus_ater_Pelee_near__Leamington_Essex_County_Ontario_476558.mp3,Song,Spring,Morning,12
+Molothrus,ater,40.5652,-83.6255,song,C,Molothrus_ater_Lawrence_Woods_SNP_417996.mp3,Song,Spring,Afternoon,3
+Euphagus,carolinus,41.9017,-83.7812,"call, song",B,Euphagus_carolinus_Michigan_Deerfield_11853.mp3,Song,Spring,Unknown,23
+Euphagus,carolinus,41.017,-81.5203,call,C,Euphagus_carolinus_Firestone_Metropark_Summit_County_Ohio_401462.mp3,Call,Winter,Morning,65
+Euphagus,carolinus,41.62116,-83.16103,song,C,Euphagus_carolinus_Ohio_Crane_Creek_SP_17013.mp3,Song,Spring,Unknown,28
+Quiscalus,quiscula,41.9298,-82.5077,call,A,Quiscalus_quiscula_Pelee_near__Leamington_Essex_County_Ontario_476561.mp3,Call,Spring,Afternoon,5
+Quiscalus,quiscula,39.8031,-84.2047,call,B,Quiscalus_quiscula_Wegerzyn_garden_near__Dayton_Montgomery_County_Ohio_807216.mp3,Call,Spring,Morning,37
+Seiurus,aurocapilla,41.5495,-83.8537,song,A,Seiurus_aurocapilla_Swanton_Township_near__Swanton_Lucas_County_Ohio_784050.mp3,Song,Spring,Morning,41
+Seiurus,aurocapilla,39.2453,-84.7581,song,A,Seiurus_aurocapilla_Harrison_Township_near__Harrison_Hamilton_County_Ohio_726815.mp3,Song,Spring,Afternoon,36
+Seiurus,aurocapilla,38.7047,-83.1429,song,A,Seiurus_aurocapilla_Shawnee_State_Forest_Scioto_County_Ohio_417447.mp3,Song,Spring,Morning,4
+Seiurus,aurocapilla,38.9941,-84.7316,song,B,Seiurus_aurocapilla_Burlington_Boone_County_Kentucky_552553.mp3,Song,Spring,Morning,47
+Seiurus,aurocapilla,41.62116,-83.16103,"song, atypical",C,Seiurus_aurocapilla_Ohio_Crane_Creek_SP_17021.mp3,Song,Spring,Unknown,3
+Seiurus,aurocapilla,41.62116,-83.16103,"song, atypical",C,Seiurus_aurocapilla_Ohio_Crane_Creek_SP_17019.mp3,Song,Spring,Unknown,2
+Seiurus,aurocapilla,41.62116,-83.16103,"song, atypical",D,Seiurus_aurocapilla_Ohio_Crane_Creek_SP_17023.mp3,Song,Spring,Unknown,2
+Seiurus,aurocapilla,41.62116,-83.16103,"song, atypical",D,Seiurus_aurocapilla_Ohio_Crane_Creek_SP_17022.mp3,Song,Spring,Unknown,2
+Seiurus,aurocapilla,41.62116,-83.16103,"song, atypical",D,Seiurus_aurocapilla_Ohio_Crane_Creek_SP_17020.mp3,Song,Spring,Unknown,3
+Parkesia,motacilla,39.2432,-84.7609,None,A,Parkesia_motacilla_Harrison_Township_near__Harrison_Hamilton_County_Ohio_805820.mp3,Unknown,Spring,Morning,46
+Parkesia,motacilla,39.2542,-84.7499,alarm call,A,Parkesia_motacilla_Harrison_Township_near__Harrison_Hamilton_County_Ohio_714922.mp3,Call,Spring,Morning,134
+Parkesia,motacilla,38.7421,-83.2649,song,A,Parkesia_motacilla_Upper_Twin_Creek_Rd_Scioto_County_Ohio_417605.mp3,Song,Spring,Afternoon,10
+Parkesia,motacilla,39.0767,-84.4156,song,B,Parkesia_motacilla_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_542524.mp3,Song,Spring,Morning,31
+Parkesia,noveboracensis,41.6275,-83.1897,song,A,Parkesia_noveboracensis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828221.mp3,Song,Spring,Morning,34
+Parkesia,noveboracensis,41.9501,-82.5237,song,A,Parkesia_noveboracensis_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_804668.mp3,Song,Spring,Morning,15
+Parkesia,noveboracensis,41.6122,-83.1723,song,B,Parkesia_noveboracensis_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902985.mp3,Song,Spring,Morning,32
+Parkesia,noveboracensis,41.6122,-83.1723,song,C,Parkesia_noveboracensis_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902982.mp3,Song,Spring,Morning,40
+Parkesia,noveboracensis,41.6122,-83.1723,song,C,Parkesia_noveboracensis_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902981.mp3,Song,Spring,Morning,27
+Parkesia,noveboracensis,41.2184,-81.5249,song,C,Parkesia_noveboracensis_Virginia_Kendall_Lake_Park_Summit_County_Ohio_367525.mp3,Song,Spring,Morning,3
+Parkesia,noveboracensis,41.62116,-83.16103,song,D,Parkesia_noveboracensis_Ohio_Crane_Creek_SP_17024.mp3,Song,Spring,Unknown,24
+Vermivora,chrysoptera,40.355,-82.924,song,C,Vermivora_chrysoptera_Delaware_Count_OH_99394.mp3,Song,Spring,Afternoon,21
+Vermivora,chrysoptera,39.993,-83.249,song,C,Vermivora_chrysoptera_Prairie_Oaks_Metro_Park_99391.mp3,Song,Spring,Morning,5
+Vermivora,chrysoptera,39.993,-83.249,song,D,Vermivora_chrysoptera_Prairie_Oaks_Metro_Park_99393.mp3,Song,Spring,Morning,35
+Vermivora,chrysoptera,39.993,-83.249,song,D,Vermivora_chrysoptera_Prairie_Oaks_Metro_Park_99390.mp3,Song,Spring,Morning,5
+Vermivora,cyanoptera,41.6529,-83.779,song,A,Vermivora_cyanoptera_Irwin_Prairie_SNP_Ohio_418085.mp3,Song,Spring,Evening,68
+Vermivora,cyanoptera,41.6529,-83.779,song,A,Vermivora_cyanoptera_Irwin_Prairie_SNP_Ohio_418083.mp3,Song,Spring,Evening,4
+Vermivora,cyanoptera,41.6529,-83.779,song,A,Vermivora_cyanoptera_Irwin_Prairie_SNP_Ohio_418082.mp3,Song,Spring,Evening,48
+Vermivora,cyanoptera,41.5445,-83.8462,song,A,Vermivora_cyanoptera_Oak_Openings_Metropark_Ohio_418074.mp3,Song,Spring,Afternoon,55
+Vermivora,cyanoptera,38.7047,-83.1429,song,A,Vermivora_cyanoptera_Shawnee_State_Forest_Scioto_County_Ohio_417455.mp3,Song,Spring,Morning,11
+Vermivora,cyanoptera,39.245,-84.727,song,A,Vermivora_cyanoptera_Miami_Whitewater_Forest_Hamilton_County_Ohio_Strimple_Rd._44416.mp3,Song,Spring,Afternoon,41
+Vermivora,cyanoptera,41.5434,-83.8394,song,B,Vermivora_cyanoptera_Oak_Openings_Lucas_County_Ohio_803617.mp3,Song,Spring,Morning,60
+Vermivora,cyanoptera,41.8778,-83.6853,"song, alternate song",B,Vermivora_cyanoptera_Michigan_Petersburg_SGA__31125.mp3,Song,Spring,Unknown,32
+Vermivora,cyanoptera,41.8778,-83.6853,"call, song",B,Vermivora_cyanoptera_Michigan_Petersburg_SGA__31124.mp3,Song,Spring,Unknown,14
+Vermivora,cyanoptera,41.8778,-83.6853,"call, song",B,Vermivora_cyanoptera_Michigan_Petersburg_SGA__31123.mp3,Song,Spring,Unknown,68
+Mniotilta,varia,38.7047,-83.1429,song,A,Mniotilta_varia_Shawnee_State_Forest_Scioto_County_Ohio_939168.mp3,Song,Spring,Morning,45
+Mniotilta,varia,41.6122,-83.1723,song,A,Mniotilta_varia_Magee_Marsh_Ohio_418093.mp3,Song,Spring,Morning,3
+Mniotilta,varia,41.6122,-83.1723,song,A,Mniotilta_varia_Magee_Marsh_Ohio_418092.mp3,Song,Spring,Morning,23
+Mniotilta,varia,41.6275,-83.1897,song,B,Mniotilta_varia_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827727.mp3,Song,Spring,Morning,124
+Mniotilta,varia,41.6122,-83.1723,song,C,Mniotilta_varia_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902974.mp3,Song,Spring,Morning,6
+Mniotilta,varia,41.62116,-83.16103,song,D,Mniotilta_varia_Ohio_Crane_Creek_SP_17043.mp3,Song,Spring,Unknown,4
+Mniotilta,varia,41.62116,-83.16103,song,D,Mniotilta_varia_Ohio_Crane_Creek_SP_17015.mp3,Song,Spring,Unknown,21
+Mniotilta,varia,41.62116,-83.16103,song,D,Mniotilta_varia_Ohio_Crane_Creek_SP_17014.mp3,Song,Spring,Unknown,5
+Protonotaria,citrea,41.9338,-82.5111,song,A,Protonotaria_citrea_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_839864.mp3,Song,Spring,Afternoon,99
+Protonotaria,citrea,41.6275,-83.1897,"call, song",A,Protonotaria_citrea_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828067.mp3,Song,Spring,Afternoon,138
+Protonotaria,citrea,41.6275,-83.1897,song,A,Protonotaria_citrea_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828064.mp3,Song,Spring,Afternoon,80
+Protonotaria,citrea,39.1317,-84.7973,song,A,Protonotaria_citrea_Miami_Township_near__North_Bend_Hamilton_County_Ohio_645989.mp3,Song,Spring,Morning,35
+Protonotaria,citrea,41.9255,-82.5082,song,A,Protonotaria_citrea_Pelee_near__Leamington_Essex_County_Ontario_476998.mp3,Song,Spring,Afternoon,19
+Protonotaria,citrea,41.6275,-83.1897,song,B,Protonotaria_citrea_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828063.mp3,Song,Spring,Afternoon,24
+Protonotaria,citrea,41.6275,-83.1897,"call, song",B,Protonotaria_citrea_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828061.mp3,Song,Spring,Morning,29
+Protonotaria,citrea,41.3246,-81.5878,"song, flowing river",B,Protonotaria_citrea_Cuyahoga_Valley_National_Park_Station_Road_area_662929.mp3,Song,Summer,Afternoon,33
+Protonotaria,citrea,39.0767,-84.4156,song,C,Protonotaria_citrea_Anderson_Township_near__Cincinnati_Hamilton_County_Ohio_552556.mp3,Song,Spring,Morning,60
+Leiothlypis,peregrina,39.2453,-84.7581,song,A,Leiothlypis_peregrina_Harrison_Township_near__Harrison_Hamilton_County_Ohio_726818.mp3,Song,Spring,Afternoon,29
+Leiothlypis,peregrina,41.6296,-83.1993,song,A,Leiothlypis_peregrina_Magee_Marsh_-_Crane_Creek_Ohio_418091.mp3,Song,Spring,Morning,3
+Leiothlypis,peregrina,39.192,-84.555,song,A,Leiothlypis_peregrina_Tanglewood_Lane_Cincinnati_Ohio_44328.mp3,Song,Spring,Morning,32
+Leiothlypis,peregrina,41.4512,-82.6645,song,B,Leiothlypis_peregrina_Pipe_Creek_Wildlife_Area_Erie_County_Ohio_803615.mp3,Song,Spring,Morning,45
+Leiothlypis,peregrina,41.6122,-83.1723,song,B,Leiothlypis_peregrina_Magee_Marsh_Ohio_418302.mp3,Song,Spring,Morning,4
+Leiothlypis,peregrina,41.6122,-83.1723,song,B,Leiothlypis_peregrina_Magee_Marsh_Ohio_418006.mp3,Song,Spring,Morning,3
+Leiothlypis,peregrina,41.6122,-83.1723,song,C,Leiothlypis_peregrina_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902978.mp3,Song,Spring,Morning,16
+Leiothlypis,peregrina,41.6275,-83.1897,song,C,Leiothlypis_peregrina_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_477404.mp3,Song,Spring,Afternoon,43
+Leiothlypis,peregrina,41.6122,-83.1723,song,C,Leiothlypis_peregrina_Magee_Marsh_Ohio_174389.mp3,Song,Spring,Morning,14
+Leiothlypis,peregrina,41.6296,-83.1993,song,D,Leiothlypis_peregrina_Magee_Marsh_-_Crane_Creek_Ohio_418090.mp3,Song,Spring,Morning,33
+Leiothlypis,celata,39.192,-84.555,song,A,Leiothlypis_celata_Tanglewood_Lane_Cincinnati_Ohio_44329.mp3,Song,Spring,Afternoon,33
+Leiothlypis,ruficapilla,39.1722,-84.643,song,A,Leiothlypis_ruficapilla_Green_Township_near__Cincinnati_Hamilton_County_Ohio_723591.mp3,Song,Spring,Afternoon,21
+Leiothlypis,ruficapilla,39.192,-84.555,song,A,Leiothlypis_ruficapilla_Tanglewood_Lane_Cincinnati_Ohio_44428.mp3,Song,Spring,Morning,19
+Oporornis,agilis,40.7167,-82.5434,song,C,Oporornis_agilis_Mansfield_Richland_County_Ohio_804330.mp3,Song,Spring,Morning,39
+Oporornis,agilis,41.9628,-82.5184,call,C,Oporornis_agilis_Point_Pelee_National_Park_Essex_County_Ontario_802580.mp3,Call,Spring,Morning,54
+Oporornis,agilis,40.0723,-82.8736,song,C,Oporornis_agilis_Blendon_Woods_Metro_Park--Brookside_Trail_near_Hickory_Ridge_Trail_Columbus_Franklin_County_Ohio_179835.mp3,Song,Spring,Morning,201
+Geothlypis,philadelphia,40.0168,-83.0435,song,A,Geothlypis_philadelphia_OSU's_Waterman_Farm_wood_lot_Columbus_Franklin_County_Ohio_179681.mp3,Song,Spring,Morning,35
+Geothlypis,philadelphia,39.1722,-84.643,song,B,Geothlypis_philadelphia_Green_Township_near__Cincinnati_Hamilton_County_Ohio_723382.mp3,Song,Spring,Evening,13
+Geothlypis,philadelphia,41.0111,-81.514,song,C,Geothlypis_philadelphia_Ohio_near__Akron_Summit_County_Ohio_369829.mp3,Song,Spring,Morning,10
+Geothlypis,philadelphia,41.9628,-82.5184,song,D,Geothlypis_philadelphia_Point_Pelee_National_Park_Essex_County_Ontario_725314.mp3,Song,Spring,Morning,1
+Geothlypis,formosa,38.7414,-83.1977,song,A,Geothlypis_formosa_Shawnee_State_Park_Scioto_County_Ohio_417604.mp3,Song,Spring,Afternoon,4
+Geothlypis,formosa,38.7047,-83.1429,song,A,Geothlypis_formosa_Shawnee_State_Forest_Scioto_County_Ohio_417461.mp3,Song,Spring,Morning,4
+Geothlypis,formosa,38.7047,-83.1429,song,A,Geothlypis_formosa_Shawnee_State_Forest_Scioto_County_Ohio_417459.mp3,Song,Spring,Morning,48
+Geothlypis,formosa,38.7047,-83.1429,song,A,Geothlypis_formosa_Shawnee_State_Forest_Scioto_County_Ohio_417458.mp3,Song,Spring,Morning,4
+Geothlypis,formosa,38.7047,-83.1429,song,B,Geothlypis_formosa_Shawnee_State_Forest_Scioto_County_Ohio_939167.mp3,Song,Spring,Morning,5
+Geothlypis,formosa,39.2432,-84.7609,song,B,Geothlypis_formosa_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_910509.mp3,Song,Summer,Morning,46
+Geothlypis,formosa,39.2432,-84.7609,"call, song",B,Geothlypis_formosa_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_817715.mp3,Song,Summer,Morning,38
+Geothlypis,formosa,39.2432,-84.7609,call,B,Geothlypis_formosa_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_817714.mp3,Call,Summer,Morning,60
+Geothlypis,formosa,41.5434,-83.8394,song,B,Geothlypis_formosa_Oak_Openings_Lucas_County_Ohio_803620.mp3,Song,Spring,Morning,84
+Geothlypis,formosa,39.2453,-84.7581,call,B,Geothlypis_formosa_Harrison_Township_near__Harrison_Hamilton_County_Ohio_726820.mp3,Call,Spring,Afternoon,15
+Geothlypis,formosa,40.073,-82.874,song,B,Geothlypis_formosa_Columbus_OH--Blendon_Woods_Metro_Park--Hickory_Ridge_Trail_between_Brookside_and_Overlook_Trails_103881.mp3,Song,Summer,Morning,128
+Geothlypis,formosa,41.8778,-83.6853,song,B,Geothlypis_formosa_Michigan_Petersburg_SGA__31280.mp3,Song,Summer,Morning,52
+Geothlypis,formosa,39.2453,-84.7581,song,C,Geothlypis_formosa_Harrison_Township_near__Harrison_Hamilton_County_Ohio_728265.mp3,Song,Spring,Afternoon,43
+Geothlypis,trichas,41.6275,-83.1897,song,A,Geothlypis_trichas_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828478.mp3,Song,Spring,Morning,85
+Geothlypis,trichas,41.9501,-82.5237,song,A,Geothlypis_trichas_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_803583.mp3,Song,Spring,Afternoon,26
+Geothlypis,trichas,39.2095,-84.7821,song,A,Geothlypis_trichas_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726806.mp3,Song,Spring,Morning,55
+Geothlypis,trichas,39.1317,-84.7973,song,A,Geothlypis_trichas_Miami_Township_near__North_Bend_Hamilton_County_Ohio_646029.mp3,Song,Spring,Morning,42
+Geothlypis,trichas,40.5652,-83.6255,song,A,Geothlypis_trichas_Lawrence_Woods_SNP_417980.mp3,Song,Spring,Afternoon,2
+Geothlypis,trichas,39.017,-84.1259,song,B,Geothlypis_trichas_East_Fork_Lake_SP_Clermont_County_Ohio_416558.mp3,Song,Spring,Morning,3
+Geothlypis,trichas,39.919,-83.2065,song,C,Geothlypis_trichas_Battelle_Darby_Metro_Park_-_Wetlands_737240.mp3,Song,Spring,Morning,7
+Geothlypis,trichas,41.1895,-81.5781,song,E,Geothlypis_trichas_Ohio_near__Peninsula_Summit_County_Ohio_374227.mp3,Song,Summer,Morning,30
+Setophaga,citrina,39.2432,-84.7609,song,A,Setophaga_citrina_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_910499.mp3,Song,Summer,Morning,24
+Setophaga,citrina,39.2453,-84.7581,song,A,Setophaga_citrina_Harrison_Township_near__Harrison_Hamilton_County_Ohio_726821.mp3,Song,Spring,Afternoon,23
+Setophaga,citrina,41.3144,-81.5996,song,C,Setophaga_citrina_Brecksville_Cuyahoga_County_Ohio_652287.mp3,Song,Spring,Morning,75
+Setophaga,ruticilla,41.6275,-83.1897,song,A,Setophaga_ruticilla_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_825241.mp3,Song,Spring,Morning,285
+Setophaga,ruticilla,39.1317,-84.7973,song,A,Setophaga_ruticilla_Miami_Township_near__North_Bend_Hamilton_County_Ohio_645905.mp3,Song,Spring,Morning,40
+Setophaga,ruticilla,41.9112,-82.5091,song,A,Setophaga_ruticilla_Pelee_near__Leamington_Essex_County_Ontario_476493.mp3,Song,Spring,Morning,30
+Setophaga,ruticilla,41.1449,-81.0854,song,A,Setophaga_ruticilla_Paris_near__Ravenna_Portage_County_Ohio_178310.mp3,Song,Spring,Morning,49
+Setophaga,ruticilla,41.937,-82.51,song,A,Setophaga_ruticilla_Point_Pelee_ON_83534.mp3,Song,Spring,Unknown,32
+Setophaga,ruticilla,41.6275,-83.1897,subsong,B,Setophaga_ruticilla_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_825242.mp3,Song,Spring,Morning,144
+Setophaga,ruticilla,41.6275,-83.1897,song,B,Setophaga_ruticilla_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_825240.mp3,Song,Spring,Morning,228
+Setophaga,ruticilla,41.6122,-83.1723,song,B,Setophaga_ruticilla_Magee_Marsh_Ohio_418300.mp3,Song,Spring,Morning,8
+Setophaga,ruticilla,41.6122,-83.1723,song,B,Setophaga_ruticilla_Magee_Marsh_Ohio_418298.mp3,Song,Spring,Morning,29
+Setophaga,ruticilla,38.7047,-83.1429,song,B,Setophaga_ruticilla_Shawnee_State_Forest_Scioto_County_Ohio_417456.mp3,Song,Spring,Morning,48
+Setophaga,ruticilla,38.7047,-83.1429,song,C,Setophaga_ruticilla_Shawnee_State_Forest_Scioto_County_Ohio_417443.mp3,Song,Spring,Morning,4
+Setophaga,kirtlandii,39.998,-83.034,flight call,B,Setophaga_kirtlandii_Kinnear_Rd_&_Hess_Blvd_Columbus_OH_103387.mp3,Call,Spring,Evening,1
+Setophaga,kirtlandii,39.998,-83.034,song,C,Setophaga_kirtlandii_Kinnear_Rd_&_Hess_Blvd_Columbus_OH_103394.mp3,Song,Spring,Morning,150
+Setophaga,tigrina,41.6122,-83.1723,song,A,Setophaga_tigrina_Magee_Marsh_Ohio_418096.mp3,Song,Spring,Morning,2
+Setophaga,tigrina,41.6122,-83.1723,song,A,Setophaga_tigrina_Magee_Marsh_Ohio_418094.mp3,Song,Spring,Morning,25
+Setophaga,tigrina,39.192,-84.555,song,A,Setophaga_tigrina_Tanglewood_Lane_Cincinnati_Ohio_44424.mp3,Song,Spring,Morning,16
+Setophaga,tigrina,39.192,-84.555,song,A,Setophaga_tigrina_Tanglewood_Lane_Cincinnati_Ohio_44423.mp3,Song,Spring,Evening,21
+Setophaga,tigrina,41.62116,-83.16103,song,C,Setophaga_tigrina_Ohio_Crane_Creek_SP_17040.mp3,Song,Spring,Unknown,7
+Setophaga,cerulea,38.7047,-83.1429,song,A,Setophaga_cerulea_Shawnee_State_Forest_Scioto_County_Ohio_417450.mp3,Song,Spring,Morning,4
+Setophaga,cerulea,38.7047,-83.1429,song,A,Setophaga_cerulea_Shawnee_State_Forest_Scioto_County_Ohio_417448.mp3,Song,Spring,Morning,52
+Setophaga,cerulea,39.1317,-84.7973,song,B,Setophaga_cerulea_Miami_Township_near__North_Bend_Hamilton_County_Ohio_646112.mp3,Song,Spring,Morning,17
+Setophaga,cerulea,38.7047,-83.1429,song,B,Setophaga_cerulea_Shawnee_State_Forest_Scioto_County_Ohio_417453.mp3,Song,Spring,Morning,20
+Setophaga,cerulea,40.5652,-83.6255,song,C,Setophaga_cerulea_Lawrence_Woods_SNP_417983.mp3,Song,Spring,Afternoon,3
+Setophaga,americana,41.9355,-82.5109,song,A,Setophaga_americana_Point_Pelee_National_Park_near__Wheatley_Essex_County_Ontario_839515.mp3,Song,Spring,Afternoon,8
+Setophaga,americana,41.6275,-83.1897,song,A,Setophaga_americana_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_825110.mp3,Song,Spring,Morning,7
+Setophaga,americana,39.2535,-84.763,song,A,Setophaga_americana_Tanager_Meadow_Reservable_Shelter_near__Harrison_Hamilton_County_Ohio_807351.mp3,Song,Spring,Morning,50
+Setophaga,americana,39.1914,-84.7174,song,A,Setophaga_americana_Miami_Township_near__Cleves_Hamilton_County_Ohio_645550.mp3,Song,Spring,Morning,38
+Setophaga,americana,41.9669,-82.5324,"drumming, song",A,Setophaga_americana_Pelee_near__Leamington_Essex_County_Ontario_476949.mp3,Song,Spring,Afternoon,9
+Setophaga,americana,41.6122,-83.1723,song,A,Setophaga_americana_Magee_Marsh_Ohio_418297.mp3,Song,Spring,Morning,4
+Setophaga,americana,39.1278,-84.7987,song,B,Setophaga_americana_Miami_near__North_Bend_Hamilton_County_Ohio_545784.mp3,Song,Spring,Morning,47
+Setophaga,americana,41.6122,-83.1723,song,B,Setophaga_americana_Magee_Marsh_Ohio_418004.mp3,Song,Spring,Morning,4
+Setophaga,americana,41.4885,-81.5787,song,C,Setophaga_americana_Ohio_near__Cleveland_Heights_Cuyahoga_County_Ohio_372023.mp3,Song,Spring,Morning,11
+Setophaga,americana,39.9871,-83.244,song,C,Setophaga_americana_Prairie_Oaks_Metro_Park--Sycamore_Plains_Area_182008.mp3,Song,Spring,Morning,19
+Setophaga,magnolia,41.6275,-83.1897,song,A,Setophaga_magnolia_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828025.mp3,Song,Spring,Morning,90
+Setophaga,magnolia,41.6275,-83.1897,song,A,Setophaga_magnolia_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828022.mp3,Song,Spring,Morning,83
+Setophaga,magnolia,41.6275,-83.1897,song,A,Setophaga_magnolia_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828020.mp3,Song,Spring,Morning,95
+Setophaga,magnolia,41.4885,-81.5787,"call, song",C,Setophaga_magnolia_Ohio_near__Cleveland_Heights_Cuyahoga_County_Ohio_418323.mp3,Song,Spring,Morning,28
+Setophaga,magnolia,41.8778,-83.6853,song,C,Setophaga_magnolia_Michigan_Petersburg_SGA__31032.mp3,Song,Spring,Morning,32
+Setophaga,castanea,39.8161,-84.2254,song,A,Setophaga_castanea_Park_End_Dr_Montgomery_County_Ohio_477392.mp3,Song,Spring,Evening,75
+Setophaga,castanea,41.9494,-82.5122,song,A,Setophaga_castanea_Pelee_near__Leamington_Essex_County_Ontario_476520.mp3,Song,Spring,Afternoon,23
+Setophaga,castanea,39.8161,-84.2254,song,B,Setophaga_castanea_Park_End_Dr_Montgomery_County_Ohio_477393.mp3,Song,Spring,Evening,53
+Setophaga,fusca,38.7047,-83.1429,song,B,Setophaga_fusca_Shawnee_State_Forest_Scioto_County_Ohio_417442.mp3,Song,Spring,Morning,11
+Setophaga,fusca,41.9494,-82.5122,song,D,Setophaga_fusca_Pelee_near__Leamington_Essex_County_Ontario_476522.mp3,Song,Spring,Afternoon,5
+Setophaga,aestiva,41.9368,-82.5115,song,A,Setophaga_aestiva_Camp_Henry_near__Wheatley_Essex_County_Ontario_839855.mp3,Song,Spring,Afternoon,45
+Setophaga,aestiva,41.6275,-83.1897,"call, flight call, chase calls",A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828200.mp3,Call,Spring,Morning,43
+Setophaga,aestiva,41.6275,-83.1897,call,A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828199.mp3,Call,Spring,Afternoon,11
+Setophaga,aestiva,41.6275,-83.1897,"call, flight call",A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828198.mp3,Call,Spring,Morning,69
+Setophaga,aestiva,41.6275,-83.1897,song,A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828197.mp3,Song,Spring,Afternoon,80
+Setophaga,aestiva,41.6275,-83.1897,song,A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828196.mp3,Song,Spring,Morning,37
+Setophaga,aestiva,39.2095,-84.7821,song,A,Setophaga_aestiva_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726808.mp3,Song,Spring,Morning,11
+Setophaga,aestiva,41.9628,-82.5184,call,A,Setophaga_aestiva_Pelee_near__Leamington_Essex_County_Ontario_495792.mp3,Call,Spring,Afternoon,16
+Setophaga,aestiva,41.6296,-83.1993,song,A,Setophaga_aestiva_Magee_Marsh_-_Crane_Creek_Ohio_418088.mp3,Song,Spring,Morning,22
+Setophaga,aestiva,41.6802,-83.3519,song,B,Setophaga_aestiva_Maumee_Bay_State_Park_Lucas_County_Ohio_803613.mp3,Song,Spring,Morning,42
+Setophaga,aestiva,41.62116,-83.16103,song,B,Setophaga_aestiva_Ohio_Crane_Creek_SP_17039.mp3,Song,Spring,Unknown,20
+Setophaga,aestiva,41.62116,-83.16103,song,B,Setophaga_aestiva_Ohio_Crane_Creek_SP_17038.mp3,Song,Spring,Unknown,27
+Setophaga,aestiva,41.62116,-83.16103,song,B,Setophaga_aestiva_Ohio_Crane_Creek_SP_17037.mp3,Song,Spring,Unknown,28
+Setophaga,pensylvanica,41.9347,-82.5142,song,A,Setophaga_pensylvanica_Pelee_near__Leamington_Essex_County_Ontario_476559.mp3,Song,Spring,Morning,23
+Setophaga,pensylvanica,40.5652,-83.6255,song,A,Setophaga_pensylvanica_Lawrence_Woods_SNP_417994.mp3,Song,Spring,Afternoon,4
+Setophaga,pensylvanica,41.6275,-83.1897,song,B,Setophaga_pensylvanica_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827845.mp3,Song,Spring,Morning,247
+Setophaga,pensylvanica,41.6275,-83.1897,song,B,Setophaga_pensylvanica_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827843.mp3,Song,Spring,Morning,6
+Setophaga,striata,39.2095,-84.7821,song,B,Setophaga_striata_Whitewater_Township_near__Harrison_Hamilton_County_Ohio_726810.mp3,Song,Spring,Morning,23
+Setophaga,striata,41.6122,-83.1723,song,C,Setophaga_striata_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902977.mp3,Song,Spring,Morning,17
+Setophaga,striata,41.6122,-83.1723,song,C,Setophaga_striata_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902976.mp3,Song,Spring,Morning,8
+Setophaga,caerulescens,41.6275,-83.1897,song,B,Setophaga_caerulescens_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827750.mp3,Song,Spring,Morning,58
+Setophaga,palmarum,41.62116,-83.16103,song,C,Setophaga_palmarum_Ohio_Crane_Creek_SP_17032.mp3,Song,Spring,Unknown,3
+Setophaga,palmarum,41.62116,-83.16103,call,C,Setophaga_palmarum_Ohio_Crane_Creek_SP_17031.mp3,Call,Spring,Unknown,4
+Setophaga,palmarum,41.62116,-83.16103,call,D,Setophaga_palmarum_Ohio_Crane_Creek_SP_17030.mp3,Call,Spring,Unknown,59
+Setophaga,palmarum,41.62116,-83.16103,call,D,Setophaga_palmarum_Ohio_Crane_Creek_SP_17029.mp3,Call,Spring,Unknown,19
+Setophaga,pinus,41.2134,-81.537,"duet, song",B,Setophaga_pinus_Cuyahoga_Valley_National_Park_Wetmore_Trail_662930.mp3,Song,Summer,Morning,39
+Setophaga,pinus,39.1702,-84.7211,song,B,Setophaga_pinus_Miami_Township_near__Cleves_Hamilton_County_Ohio_548088.mp3,Song,Spring,Morning,21
+Setophaga,pinus,39.1702,-84.7211,song,B,Setophaga_pinus_Miami_Township_near__Cleves_Hamilton_County_Ohio_548084.mp3,Song,Spring,Morning,63
+Setophaga,coronata,41.62116,-83.16103,song,B,Setophaga_coronata_Ohio_Crane_Creek_Sp_17028.mp3,Song,Spring,Unknown,24
+Setophaga,coronata,39.1227,-84.3951,song,C,Setophaga_coronata_Anderson_near__Cincinnati_Hamilton_County_Ohio_237811.mp3,Song,Spring,Morning,20
+Setophaga,dominica,39.419,-84.735,song,A,Setophaga_dominica_Pater_Wildlife_Area_Butler_County_Ohio_44434.mp3,Song,Spring,Morning,32
+Setophaga,dominica,39.1702,-84.7211,song,B,Setophaga_dominica_Miami_Township_near__Cleves_Hamilton_County_Ohio_548090.mp3,Song,Spring,Morning,42
+Setophaga,discolor,38.9941,-84.7316,song,B,Setophaga_discolor_Burlington_Boone_County_Kentucky_552554.mp3,Song,Spring,Afternoon,4
+Setophaga,discolor,41.9493,-82.5165,song,B,Setophaga_discolor_Pelee_near__Leamington_Essex_County_Ontario_476996.mp3,Song,Spring,Afternoon,4
+Setophaga,discolor,41.9493,-82.5165,call,B,Setophaga_discolor_Pelee_near__Leamington_Essex_County_Ontario_476995.mp3,Call,Spring,Afternoon,10
+Setophaga,virens,39.2542,-84.7499,song,A,Setophaga_virens_Harrison_Township_near__Harrison_Hamilton_County_Ohio_719921.mp3,Song,Spring,Afternoon,31
+Cardellina,canadensis,41.6275,-83.1897,song,A,Cardellina_canadensis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_827828.mp3,Song,Spring,Morning,53
+Cardellina,canadensis,40.0168,-83.0435,song,A,Cardellina_canadensis_OSU's_Waterman_Farm_wood_lot_Columbus_Franklin_County_Ohio_179691.mp3,Song,Spring,Morning,41
+Cardellina,canadensis,40.0168,-83.0435,song,A,Cardellina_canadensis_OSU's_Waterman_Farm_wood_lot_Columbus_Franklin_County_Ohio_179679.mp3,Song,Spring,Morning,225
+Cardellina,canadensis,40.0168,-83.0435,song,B,Cardellina_canadensis_OSU's_Waterman_Farm_wood_lot_Columbus_Franklin_County_Ohio_179676.mp3,Song,Spring,Morning,238
+Cardellina,canadensis,41.8778,-83.6853,song,C,Cardellina_canadensis_Michigan_Petersburg_SGA__31133.mp3,Song,Spring,Unknown,12
+Cardellina,pusilla,41.6275,-83.1897,song,A,Cardellina_pusilla_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828187.mp3,Song,Spring,Morning,155
+Piranga,rubra,41.6196,-83.7899,song,C,Piranga_rubra_Kitty_Todd_Nature_Preserve_Spencer_Township_Lucas_County_Ohio_923981.mp3,Song,Summer,Morning,52
+Piranga,olivacea,39.2432,-84.7609,song,A,Piranga_olivacea_Whitewater_Township_near__Cleves_Hamilton_County_Ohio_896571.mp3,Song,Spring,Morning,28
+Piranga,olivacea,39.3162,-82.3121,call,B,Piranga_olivacea_Brown_Township_near__Allensville_Vinton_County_Ohio_476090.mp3,Call,Spring,Afternoon,7
+Piranga,olivacea,38.7047,-83.1429,song,B,Piranga_olivacea_Shawnee_State_Forest_Scioto_County_Ohio_417444.mp3,Song,Spring,Morning,5
+Piranga,olivacea,39.017,-84.1259,song,C,Piranga_olivacea_East_Fork_Lake_SP_Clermont_County_Ohio_416550.mp3,Song,Spring,Morning,33
+Pheucticus,ludovicianus,39.2453,-84.7581,song,A,Pheucticus_ludovicianus_Harrison_Township_near__Harrison_Hamilton_County_Ohio_726850.mp3,Song,Spring,Afternoon,64
+Pheucticus,ludovicianus,41.9628,-82.5184,call,A,Pheucticus_ludovicianus_Pelee_near__Leamington_Essex_County_Ontario_495791.mp3,Call,Spring,Afternoon,16
+Pheucticus,ludovicianus,41.9414,-82.518,song,A,Pheucticus_ludovicianus_Pelee_near__Leamington_Essex_County_Ontario_477036.mp3,Song,Spring,Afternoon,17
+Pheucticus,ludovicianus,41.5445,-83.8462,song,A,Pheucticus_ludovicianus_Oak_Openings_Metropark_Ohio_418070.mp3,Song,Spring,Afternoon,65
+Pheucticus,ludovicianus,38.7047,-83.1429,call,A,Pheucticus_ludovicianus_Shawnee_State_Forest_Scioto_County_Ohio_417454.mp3,Call,Spring,Morning,9
+Pheucticus,ludovicianus,41.9628,-82.5184,call,B,Pheucticus_ludovicianus_Point_Pelee_National_Park_Essex_County_Ontario_910738.mp3,Call,Summer,Morning,8
+Pheucticus,ludovicianus,41.6802,-83.3519,song,C,Pheucticus_ludovicianus_Maumee_Bay_State_Park_Lucas_County_Ohio_803611.mp3,Song,Spring,Morning,38
+Pheucticus,ludovicianus,41.62116,-83.16103,song,C,Pheucticus_ludovicianus_Ohio_Crane_Creek_SP_17044.mp3,Song,Spring,Unknown,28
+Cardinalis,cardinalis,39.0664,-84.2805,uncertain,A,Cardinalis_cardinalis_Union_Township_near__Cincinnati_Clermont_County_Ohio_727761.mp3,Unknown,Spring,Morning,6
+Cardinalis,cardinalis,39.1773,-84.6556,song,A,Cardinalis_cardinalis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_716618.mp3,Song,Spring,Afternoon,138
+Cardinalis,cardinalis,39.1914,-84.7174,song,A,Cardinalis_cardinalis_Miami_Township_near__Cleves_Hamilton_County_Ohio_713583.mp3,Song,Spring,Afternoon,60
+Cardinalis,cardinalis,39.1756,-84.5274,alarm call,A,Cardinalis_cardinalis_Cincinnati_Hamilton_County_Ohio_677300.mp3,Call,Fall,Morning,65
+Cardinalis,cardinalis,39.1914,-84.7174,song,A,Cardinalis_cardinalis_Miami_Township_near__Cleves_Hamilton_County_Ohio_645816.mp3,Song,Spring,Morning,4
+Cardinalis,cardinalis,39.192,-84.555,"song, several different song types appear in this recording of part of a single bout., ",A,Cardinalis_cardinalis_Tanglewood_Lane_Cincinnati_Ohio_302932.mp3,Song,Spring,Morning,576
+Cardinalis,cardinalis,39.1767,-84.6557,song,B,Cardinalis_cardinalis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_817703.mp3,Song,Summer,Morning,15
+Cardinalis,cardinalis,41.6275,-83.1897,song,B,Cardinalis_cardinalis_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_814887.mp3,Song,Spring,Morning,61
+Cardinalis,cardinalis,39.1196,-84.5989,call,B,Cardinalis_cardinalis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_676765.mp3,Call,Fall,Morning,43
+Cardinalis,cardinalis,39.1722,-84.643,call,B,Cardinalis_cardinalis_Green_Township_near__Cincinnati_Hamilton_County_Ohio_673006.mp3,Call,Fall,Morning,8
+Cardinalis,cardinalis,39.5734,-84.0131,call,B,Cardinalis_cardinalis_Spring_Valley_near__Waynesville_Greene_Cty_Ohio_477596.mp3,Call,Spring,Afternoon,5
+Cardinalis,cardinalis,39.017,-84.1259,song,B,Cardinalis_cardinalis_East_Fork_Lake_SP_Clermont_County_Ohio_416549.mp3,Song,Spring,Morning,16
+Spiza,americana,40.9734,-81.6073,song,B,Spiza_americana_Ohio_near__New_Franklin_Summit_County_Ohio_378358.mp3,Song,Summer,Morning,15
+Spiza,americana,39.915,-83.21,"call, song",B,Spiza_americana_Battelle_Darby_Metro_Park--Grain_Elevator_Wetlands_near_parking_area_105816.mp3,Song,Summer,Morning,80
+Spiza,americana,41.77227,-83.70994,song,B,Spiza_americana_Michigan_Whiteford_Township_17103.mp3,Song,Summer,Unknown,46
+Passerina,cyanea,39.1318,-84.7992,song,A,Passerina_cyanea_Miami_Township_near__North_Bend_Hamilton_County_Ohio_817717.mp3,Song,Summer,Morning,41
+Passerina,cyanea,39.017,-84.1259,"call, song",A,Passerina_cyanea_East_Fork_Lake_SP_Clermont_County_Ohio_416556.mp3,Song,Spring,Morning,34
+Passerina,cyanea,39.017,-84.1259,"call, song",A,Passerina_cyanea_East_Fork_Lake_SP_Clermont_County_Ohio_416554.mp3,Song,Spring,Morning,33
+Passerina,cyanea,39.017,-84.1259,song,B,Passerina_cyanea_East_Fork_Lake_SP_Clermont_County_Ohio_416555.mp3,Song,Spring,Morning,4
+Passerina,cyanea,41.8778,-83.6853,song,B,Passerina_cyanea_Michigan_Petersburg_SGA__31102.mp3,Song,Spring,Unknown,3
+Passerina,cyanea,41.93338,-83.54994,song,C,Passerina_cyanea_Michigan_Monroe_County_17148.mp3,Song,Summer,Unknown,16
+Sonus,naturalis,41.433,-81.418,song,no score,Sonus_naturalis_Chagrin_Falls_Township_near__Moreland_Hills_Cuyahoga_County_Ohio_560021.mp3,Song,Spring,Afternoon,28
+Sonus,naturalis,41.63,-83.1942,None,A,Sonus_naturalis_Jerusalem_Township_near__Bono_Lucas_County_Ohio_784063.mp3,Unknown,Spring,Morning,76
+Sonus,naturalis,40.5652,-83.6255,"call, song",A,Sonus_naturalis_Lawrence_Woods_SNP_417979.mp3,Song,Spring,Afternoon,76
+Sonus,naturalis,38.8349,-82.2605,"call, song",B,Sonus_naturalis_Buhl-Morton_Road_462269.mp3,Song,Spring,Morning,121
+Sonus,naturalis,41.6802,-83.3519,None,C,Sonus_naturalis_Maumee_Bay_State_Park_Lucas_County_Ohio_821133.mp3,Unknown,Summer,Afternoon,14
