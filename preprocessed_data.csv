@@ -490,6 +490,7 @@ Parkesia,noveboracensis,41.6122,-83.1723,song,C,Parkesia_noveboracensis_Benton_T
 Parkesia,noveboracensis,41.6122,-83.1723,song,C,Parkesia_noveboracensis_Benton_Township_near__Rocky_Ridge_Ottawa_County_Ohio_902981.mp3,Song,Spring,Morning,27
 Parkesia,noveboracensis,41.2184,-81.5249,song,C,Parkesia_noveboracensis_Virginia_Kendall_Lake_Park_Summit_County_Ohio_367525.mp3,Song,Spring,Morning,3
 Parkesia,noveboracensis,41.62116,-83.16103,song,D,Parkesia_noveboracensis_Ohio_Crane_Creek_SP_17024.mp3,Song,Spring,Unknown,24
+Vermivora,chrysoptera,41.6275,-83.1897,subsong,B,Vermivora_chrysoptera_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_939868.mp3,Song,Spring,Morning,7
 Vermivora,chrysoptera,40.355,-82.924,song,C,Vermivora_chrysoptera_Delaware_Count_OH_99394.mp3,Song,Spring,Afternoon,21
 Vermivora,chrysoptera,39.993,-83.249,song,C,Vermivora_chrysoptera_Prairie_Oaks_Metro_Park_99391.mp3,Song,Spring,Morning,5
 Vermivora,chrysoptera,39.993,-83.249,song,D,Vermivora_chrysoptera_Prairie_Oaks_Metro_Park_99393.mp3,Song,Spring,Morning,35
@@ -608,6 +609,7 @@ Setophaga,castanea,41.9494,-82.5122,song,A,Setophaga_castanea_Pelee_near__Leamin
 Setophaga,castanea,39.8161,-84.2254,song,B,Setophaga_castanea_Park_End_Dr_Montgomery_County_Ohio_477393.mp3,Song,Spring,Evening,53
 Setophaga,fusca,38.7047,-83.1429,song,B,Setophaga_fusca_Shawnee_State_Forest_Scioto_County_Ohio_417442.mp3,Song,Spring,Morning,11
 Setophaga,fusca,41.9494,-82.5122,song,D,Setophaga_fusca_Pelee_near__Leamington_Essex_County_Ontario_476522.mp3,Song,Spring,Afternoon,5
+Setophaga,aestiva,41.6275,-83.1897,song,A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_939866.mp3,Song,Spring,Morning,18
 Setophaga,aestiva,41.9368,-82.5115,song,A,Setophaga_aestiva_Camp_Henry_near__Wheatley_Essex_County_Ontario_839855.mp3,Song,Spring,Afternoon,45
 Setophaga,aestiva,41.6275,-83.1897,"call, flight call, chase calls",A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828200.mp3,Call,Spring,Morning,43
 Setophaga,aestiva,41.6275,-83.1897,call,A,Setophaga_aestiva_Magee_Marsh_-_boardwalk_Lucas_County_Ohio_828199.mp3,Call,Spring,Afternoon,11
