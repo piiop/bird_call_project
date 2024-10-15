@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 
-# Ignore .wav and .mp3 so we're not uploading these files to the repo
+# Ignore .wav, .mp3, and .png so we're not uploading these files to the repo
 *.wav
 *.mp3
+*.png
