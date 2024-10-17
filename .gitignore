@@ -166,3 +166,6 @@ cython_debug/
 *.wav
 *.mp3
 *.png
+# Also ignore csv files as they're too large
+tabular_data.csv
+final_data.csv
